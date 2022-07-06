@@ -4,44 +4,49 @@
 
 ### Environment
 
-- [x] Init project
-- [x] Update gitignore
-- [x] Set yarn version
-- [x] Install yarn plugin (interactive-tools)
-- [x] Creat Intellij Run Scripts
-- [x] Add [editorconfig](https://editorconfig.org/#example-file)
-- [x] Set up [Git flow](https://ihower.tw/blog/archives/5140)
+-   [x] Init project
+-   [x] Update gitignore
+-   [x] Set yarn version
+-   [x] Install yarn plugin (interactive-tools)
+-   [x] Creat Intellij Run Scripts
+-   [x] Add [editorconfig](https://editorconfig.org/#example-file)
+-   [x] Set up [Git flow](https://ihower.tw/blog/archives/5140)
 
 ### Vite
 
-- [ ] Modify [tsconfig](https://ithelp.ithome.com.tw/m/articles/10263733)
-- [ ] Modify [vite.config.ts](https://vitejs.dev/config/#esbuild)
+-   [ ] Modify [tsconfig](https://ithelp.ithome.com.tw/m/articles/10263733)
+-   [ ] Modify [vite.config.ts](https://vitejs.dev/config/#esbuild)
+-   Add [plugins](https://github.com/vitejs/awesome-vite#plugins)
+    -   [ ] Add unocss
 
 ### CI
 
-- [ ] Set up husky hooks
-- [ ] Set up pre-commit and pre-commit.ci
-- [ ] Set up eslint and prettier
-- [ ] Set up lint-staged
-- [ ] Set up commitlint and commitizen
-- [ ] Set up standard-version
-- [ ] Set up codacy
-- [ ] Set up lint for pull requests (GitHub action)
-- [ ] Set up vitest (later)
+-   [ ] Set up husky hooks
+-   [ ] Set up pre-commit and pre-commit.ci
+-   [x] Set up [prettier](https://prettier.io/docs/en/next/options.html)
+-   [ ] Add prettier-plugin-sh
+-   [ ] Set up eslint
+-   [ ] Set up prettier and eslint integration
+-   [ ] Set up lint-staged
+-   [ ] Set up commitlint and commitizen
+-   [ ] Set up standard-version
+-   [ ] Set up codacy
+-   [ ] Set up lint for pull requests (GitHub action)
+-   [ ] Set up vitest (later)
 
 ### CD
 
-- [ ] Set up auto deploy (GitHub action)
+-   [ ] Set up auto deploy (GitHub action)
 
 ### Website
 
-- [ ] Readme.md
+-   [ ] Readme.md
 
 ## Environment
 
-- Vue
-- Typescript
-- Vite
-- Yarn
+-   Vue
+-   Typescript
+-   Vite
+-   Yarn
 
 ## Reference
