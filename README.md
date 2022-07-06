@@ -24,7 +24,7 @@
 -   [ ] Set up husky hooks
 -   [ ] Set up pre-commit and pre-commit.ci
 -   [x] Set up [prettier](https://prettier.io/docs/en/next/options.html)
--   [ ] Add prettier-plugin-sh
+-   [x] Add [prettier-plugin-sh](https://github.com/un-ts/prettier/tree/master/packages/sh)
 -   [ ] Set up eslint
 -   [ ] Set up prettier and eslint integration
 -   [ ] Set up lint-staged

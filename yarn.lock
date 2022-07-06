@@ -1049,6 +1049,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"mvdan-sh@npm:^0.10.1":
+  version: 0.10.1
+  resolution: "mvdan-sh@npm:0.10.1"
+  checksum: 32ac3ad9adb3370a2b98256f1cb80572e7a8bd27958d20c1856e0bf7c339ef3ab232a1547b7615aa670ee8e557702abfc04d7dd362f15cd86ce01bab65172b47
+  languageName: node
+  linkType: hard
+
 "nanoid@npm:^3.3.4":
   version: 3.3.4
   resolution: "nanoid@npm:3.3.4"
@@ -1155,6 +1162,17 @@ __metadata:
     picocolors: ^1.0.0
     source-map-js: ^1.0.2
   checksum: fe58766ff32e4becf65a7d57678995cfd239df6deed2fe0557f038b47c94e4132e7e5f68b5aa820c13adfec32e523b693efaeb65798efb995ce49ccd83953816
+  languageName: node
+  linkType: hard
+
+"prettier-plugin-sh@npm:^0.12.6":
+  version: 0.12.6
+  resolution: "prettier-plugin-sh@npm:0.12.6"
+  dependencies:
+    mvdan-sh: ^0.10.1
+  peerDependencies:
+    prettier: ^2.0.0
+  checksum: ad296792b25f51665e3527e687891f41c7289a84bf11293a76300114d33544bcaa30d6a60ab6b89d134725fd4fa1b947432737d4042dbd27f80943ee0de54c4b
   languageName: node
   linkType: hard
 
@@ -1356,6 +1374,7 @@ __metadata:
   dependencies:
     "@vitejs/plugin-vue": ^2.3.3
     prettier: 2.7.1
+    prettier-plugin-sh: ^0.12.6
     typescript: ^4.7.4
     vite: ^2.9.13
     vue: ^3.2.37
