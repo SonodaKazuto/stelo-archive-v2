@@ -483,7 +483,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@typescript-eslint/eslint-plugin@npm:^5.30.5":
+"@typescript-eslint/eslint-plugin@npm:^5.0.0, @typescript-eslint/eslint-plugin@npm:^5.30.5":
   version: 5.30.5
   resolution: "@typescript-eslint/eslint-plugin@npm:5.30.5"
   dependencies:
@@ -506,7 +506,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@typescript-eslint/parser@npm:^5.30.5":
+"@typescript-eslint/parser@npm:^5.0.0, @typescript-eslint/parser@npm:^5.30.5":
   version: 5.30.5
   resolution: "@typescript-eslint/parser@npm:5.30.5"
   dependencies:
@@ -699,6 +699,37 @@ __metadata:
     "@vue/compiler-dom": 3.2.37
     "@vue/shared": 3.2.37
   checksum: e137462340c220ef7891d0b40f11124e7d5311e760fdb0de1748c046481505aecd5be8ec8f7b25ac6fc26d2393cbcc267f258d2d26742a50cb9abaf828c28839
+  languageName: node
+  linkType: hard
+
+"@vue/eslint-config-prettier@npm:^7.0.0":
+  version: 7.0.0
+  resolution: "@vue/eslint-config-prettier@npm:7.0.0"
+  dependencies:
+    eslint-config-prettier: ^8.3.0
+    eslint-plugin-prettier: ^4.0.0
+  peerDependencies:
+    eslint: ">= 7.28.0"
+    prettier: ">= 2.0.0"
+  checksum: febfd7f70369426bc3a481845b26a5d0c2cf26be8bf6b45dd96134529ce63f436e070785084c5c6b9579021cdca5ab26926cc75ea4b08f2cbe6cf9f8857f09e2
+  languageName: node
+  linkType: hard
+
+"@vue/eslint-config-typescript@npm:^11.0.0":
+  version: 11.0.0
+  resolution: "@vue/eslint-config-typescript@npm:11.0.0"
+  dependencies:
+    "@typescript-eslint/eslint-plugin": ^5.0.0
+    "@typescript-eslint/parser": ^5.0.0
+    vue-eslint-parser: ^9.0.0
+  peerDependencies:
+    eslint: ^6.2.0 || ^7.0.0 || ^8.0.0
+    eslint-plugin-vue: ^9.0.0
+    typescript: "*"
+  peerDependenciesMeta:
+    typescript:
+      optional: true
+  checksum: 996ab9ae23474868b51323cb1f409496bcef79e59f716f7afefac22f09706a08691a8d085d9f4abbac6bb63253dbecccb3cc6568ecbebfab91176b401749d6d0
   languageName: node
   linkType: hard
 
@@ -1994,7 +2025,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-config-prettier@npm:^8.5.0":
+"eslint-config-prettier@npm:^8.3.0, eslint-config-prettier@npm:^8.5.0":
   version: 8.5.0
   resolution: "eslint-config-prettier@npm:8.5.0"
   peerDependencies:
@@ -2069,6 +2100,21 @@ __metadata:
     prettier: ^2.7.1
     prettier-linter-helpers: ^1.0.0
   checksum: 478de835518133fb0559356a519e04f6684b3c58f175159bc47d967f850c499d7708c480599bc773295647ea6098721ad82f455261dcc01315dd88c5fc459409
+  languageName: node
+  linkType: hard
+
+"eslint-plugin-prettier@npm:^4.0.0":
+  version: 4.2.1
+  resolution: "eslint-plugin-prettier@npm:4.2.1"
+  dependencies:
+    prettier-linter-helpers: ^1.0.0
+  peerDependencies:
+    eslint: ">=7.28.0"
+    prettier: ">=2.0.0"
+  peerDependenciesMeta:
+    eslint-config-prettier:
+      optional: true
+  checksum: b9e839d2334ad8ec7a5589c5cb0f219bded260839a857d7a486997f9870e95106aa59b8756ff3f37202085ebab658de382b0267cae44c3a7f0eb0bcc03a4f6d6
   languageName: node
   linkType: hard
 
@@ -4805,6 +4851,8 @@ __metadata:
     "@typescript-eslint/eslint-plugin": ^5.30.5
     "@typescript-eslint/parser": ^5.30.5
     "@vitejs/plugin-vue": ^2.3.3
+    "@vue/eslint-config-prettier": ^7.0.0
+    "@vue/eslint-config-typescript": ^11.0.0
     commitizen: ^4.2.4
     eslint: ^8.19.0
     eslint-config-prettier: ^8.5.0
@@ -5351,7 +5399,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vue-eslint-parser@npm:^9.0.1, vue-eslint-parser@npm:^9.0.3":
+"vue-eslint-parser@npm:^9.0.0, vue-eslint-parser@npm:^9.0.1, vue-eslint-parser@npm:^9.0.3":
   version: 9.0.3
   resolution: "vue-eslint-parser@npm:9.0.3"
   dependencies:
