@@ -22,7 +22,7 @@
 ### CI
 
 -   [x] Set up husky hooks
--   [ ] Set up pre-commit and pre-commit.ci
+-   [x] Set up pre-commit and pre-commit.ci
 -   [x] Set up [prettier](https://prettier.io/docs/en/next/options.html)
 -   [x] Add [prettier-plugin-sh](https://github.com/un-ts/prettier/tree/master/packages/sh)
 -   [x] Set up eslint
