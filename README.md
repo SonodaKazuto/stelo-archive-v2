@@ -27,6 +27,7 @@
 -   [x] Add [prettier-plugin-sh](https://github.com/un-ts/prettier/tree/master/packages/sh)
 -   [x] Set up eslint
 -   [x] Set up prettier and eslint integration
+-   [ ] Add [eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort) (failed now)
 -   [ ] Set up lint-staged
 -   [ ] Set up commitlint and commitizen
 -   [ ] Set up standard-version
@@ -52,3 +53,7 @@
 ## Reference
 
 1. [Creating vite vue ts template: Github project template](https://dev.to/imomaliev/github-project-template-1mc3)
+2. [eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
+3. [eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort)
+4. [What is causing Error: .eslintrc.js: Environment key "vue/setup-compiler-macros" is unknown](https://stackoverflow.com/questions/69796772/what-is-causing-error-eslintrc-js-environment-key-vue-setup-compiler-macros)
+5. [解决 defineProps 定义问题](https://segmentfault.com/a/1190000041461442)
