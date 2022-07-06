@@ -54,7 +54,7 @@
 
 ## Reference
 
-1. [Creating vite vue ts template: Github project template](https://dev.to/imomaliev/github-project-template-1mc3)
+1. [Creating vite vue ts template: GitHub project template](https://dev.to/imomaliev/github-project-template-1mc3)
 2. [eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
 3. [eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort)
 4. [What is causing Error: .eslintrc.js: Environment key "vue/setup-compiler-macros" is unknown](https://stackoverflow.com/questions/69796772/what-is-causing-error-eslintrc-js-environment-key-vue-setup-compiler-macros)
