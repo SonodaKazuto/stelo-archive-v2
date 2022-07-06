@@ -7,8 +7,8 @@
 - [x] Set yarn version
 - [x] Install yarn plugin (interactive-tools)
 - [x] Creat Intellij Run Scripts
-- [ ] Add editorconfig
-- [ ] Set up Git flow
+- [x] Add [editorconfig](https://editorconfig.org/#example-file)
+- [x] Set up [Git flow](https://ihower.tw/blog/archives/5140)
 ### Vite
 - [ ] Modify tsconfig
 - [ ] Modify vite.config.ts
