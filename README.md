@@ -28,7 +28,7 @@
 -   [x] Set up eslint
 -   [x] Set up prettier and eslint integration
 -   [ ] Add [eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort) (failed now)
--   [ ] Set up lint-staged
+-   [x] Set up [lint-staged](https://github.com/okonet/lint-staged#Configuration)
 -   [ ] Set up commitlint and commitizen
 -   [ ] Set up standard-version
 -   [ ] Set up codacy
@@ -57,3 +57,4 @@
 3. [eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort)
 4. [What is causing Error: .eslintrc.js: Environment key "vue/setup-compiler-macros" is unknown](https://stackoverflow.com/questions/69796772/what-is-causing-error-eslintrc-js-environment-key-vue-setup-compiler-macros)
 5. [解决 defineProps 定义问题](https://segmentfault.com/a/1190000041461442)
+6. [eslint-plugin-eslint-comments](https://github.com/mysticatea/eslint-plugin-eslint-comments)

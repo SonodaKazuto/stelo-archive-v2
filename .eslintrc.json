@@ -4,9 +4,7 @@
 	"parserOptions": {
 		"parser": "@typescript-eslint/parser"
 	},
-	"plugins": [
-		"@typescript-eslint"
-	],
+	"plugins": ["@typescript-eslint"],
 	"extends": [
 		"eslint:recommended",
 		"plugin:@typescript-eslint/recommended",
@@ -14,12 +12,12 @@
 		"plugin:eslint-comments/recommended",
 		"prettier",
 		"plugin:prettier-vue/recommended",
-//		"simple-import-sort",
+		//		"simple-import-sort",
 		"plugin:import/recommended"
 	],
 	"rules": {
-//		"simple-import-sort/imports": "error",
-//		"simple-import-sort/exports": "error"
+		//		"simple-import-sort/imports": "error",
+		//		"simple-import-sort/exports": "error"
 	},
 	"globals": {
 		"defineProps": "readonly",
