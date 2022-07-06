@@ -21,7 +21,7 @@
 
 ### CI
 
--   [ ] Set up husky hooks
+-   [x] Set up husky hooks
 -   [ ] Set up pre-commit and pre-commit.ci
 -   [x] Set up [prettier](https://prettier.io/docs/en/next/options.html)
 -   [x] Add [prettier-plugin-sh](https://github.com/un-ts/prettier/tree/master/packages/sh)
@@ -60,4 +60,4 @@
 4. [What is causing Error: .eslintrc.js: Environment key "vue/setup-compiler-macros" is unknown](https://stackoverflow.com/questions/69796772/what-is-causing-error-eslintrc-js-environment-key-vue-setup-compiler-macros)
 5. [解决 defineProps 定义问题](https://segmentfault.com/a/1190000041461442)
 6. [eslint-plugin-eslint-comments](https://github.com/mysticatea/eslint-plugin-eslint-comments)
-7. [使用ESLint, Prettier, Husky, Lint-staged以及Commitizen提升專案品質及一致性](https://medium.com/@danielhu95/set-up-eslint-pipeline-zh-tw-990d7d9eb68e)
+7. [使用 ESLint, Prettier, Husky, Lint-staged 以及 Commitizen 提升專案品質及一致性](https://medium.com/@danielhu95/set-up-eslint-pipeline-zh-tw-990d7d9eb68e)

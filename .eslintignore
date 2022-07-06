@@ -9,6 +9,7 @@ yarn.lock
 # Node
 node_modules
 # Vite & Vue
+src/**/*.js
 build
 # Test
 coverage
