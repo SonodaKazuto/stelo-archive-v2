@@ -120,6 +120,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@rollup/pluginutils@npm:^4.2.1":
+  version: 4.2.1
+  resolution: "@rollup/pluginutils@npm:4.2.1"
+  dependencies:
+    estree-walker: ^2.0.1
+    picomatch: ^2.2.2
+  checksum: 6bc41f22b1a0f1efec3043899e4d3b6b1497b3dea4d94292d8f83b4cf07a1073ecbaedd562a22d11913ff7659f459677b01b09e9598a98936e746780ecc93a12
+  languageName: node
+  linkType: hard
+
 "@tootallnate/once@npm:2":
   version: 2.0.0
   resolution: "@tootallnate/once@npm:2.0.0"
@@ -127,7 +137,24 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/json-schema@npm:^7.0.9":
+"@types/eslint@npm:^8.4.2":
+  version: 8.4.5
+  resolution: "@types/eslint@npm:8.4.5"
+  dependencies:
+    "@types/estree": "*"
+    "@types/json-schema": "*"
+  checksum: 428b0c971a50adb0d08621e76f21b284580a0052a31341a0e6d553f72b54cd0142d549aa1497c7e3bc56e9f6bcc27286e66e0216e1ba76d1a5ecd2279c40bc8c
+  languageName: node
+  linkType: hard
+
+"@types/estree@npm:*":
+  version: 0.0.52
+  resolution: "@types/estree@npm:0.0.52"
+  checksum: d1cba22160e7aebf865ea0dbc30807bee272fdafdb57d8dd25749f4b312cd9a99e9e933340b7b26284d7a47c8805aba43bb46cf5f1df00cdaaec67bbdc894d4a
+  languageName: node
+  linkType: hard
+
+"@types/json-schema@npm:*, @types/json-schema@npm:^7.0.9":
   version: 7.0.11
   resolution: "@types/json-schema@npm:7.0.11"
   checksum: 527bddfe62db9012fccd7627794bd4c71beb77601861055d87e3ee464f2217c85fca7a4b56ae677478367bbd248dbde13553312b7d4dbc702a2f2bbf60c4018d
@@ -1454,7 +1481,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"estree-walker@npm:^2.0.2":
+"estree-walker@npm:^2.0.1, estree-walker@npm:^2.0.2":
   version: 2.0.2
   resolution: "estree-walker@npm:2.0.2"
   checksum: 6151e6f9828abe2259e57f5fd3761335bb0d2ebd76dc1a01048ccee22fabcfef3c0859300f6d83ff0d1927849368775ec5a6d265dde2f6de5a1be1721cd94efc
@@ -2724,7 +2751,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"picomatch@npm:^2.3.1":
+"picomatch@npm:^2.2.2, picomatch@npm:^2.3.1":
   version: 2.3.1
   resolution: "picomatch@npm:2.3.1"
   checksum: 050c865ce81119c4822c45d3c84f1ced46f93a0126febae20737bd05ca20589c564d6e9226977df859ed5e03dc73f02584a2b0faad36e896936238238b0446cf
@@ -2932,7 +2959,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rollup@npm:^2.59.0":
+"rollup@npm:^2.59.0, rollup@npm:^2.70.2":
   version: 2.75.7
   resolution: "rollup@npm:2.75.7"
   dependencies:
@@ -3146,6 +3173,7 @@ __metadata:
     prettier-plugin-sh: ^0.12.6
     typescript: ^4.7.4
     vite: ^2.9.13
+    vite-plugin-eslint: ^1.6.1
     vue: ^3.2.37
     vue-eslint-parser: ^9.0.3
     vue-tsc: ^0.38.2
@@ -3441,6 +3469,20 @@ __metadata:
   version: 2.3.0
   resolution: "v8-compile-cache@npm:2.3.0"
   checksum: adb0a271eaa2297f2f4c536acbfee872d0dd26ec2d76f66921aa7fc437319132773483344207bdbeee169225f4739016d8d2dbf0553913a52bb34da6d0334f8e
+  languageName: node
+  linkType: hard
+
+"vite-plugin-eslint@npm:^1.6.1":
+  version: 1.6.1
+  resolution: "vite-plugin-eslint@npm:1.6.1"
+  dependencies:
+    "@rollup/pluginutils": ^4.2.1
+    "@types/eslint": ^8.4.2
+    rollup: ^2.70.2
+  peerDependencies:
+    eslint: ">=7"
+    vite: ^2.0.0
+  checksum: f6ffeee2af63d795470b061240b0feb38da392de167c57c3e7d816cd78ff39ba8eb5eda1eddbf7d80f0c442731ae813f2bc2f59c46eba64254b7dcb7b639d78c
   languageName: node
   linkType: hard
 
