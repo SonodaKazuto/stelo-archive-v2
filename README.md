@@ -1,7 +1,9 @@
 # Stelo : build my personal website from scratch
 
 ## Todo
+
 ### Environment
+
 - [x] Init project
 - [x] Update gitignore
 - [x] Set yarn version
@@ -9,10 +11,14 @@
 - [x] Creat Intellij Run Scripts
 - [x] Add [editorconfig](https://editorconfig.org/#example-file)
 - [x] Set up [Git flow](https://ihower.tw/blog/archives/5140)
+
 ### Vite
+
 - [ ] Modify tsconfig
 - [ ] Modify vite.config.ts
+
 ### CI
+
 - [ ] Set up husky hooks
 - [ ] Set up pre-commit and pre-commit.ci
 - [ ] Set up eslint and prettier
@@ -22,12 +28,17 @@
 - [ ] Set up codacy
 - [ ] Set up lint for pull requests (GitHub action)
 - [ ] Set up vitest (later)
+
 ### CD
+
 - [ ] Set up auto deploy (GitHub action)
+
 ### Website
+
 - [ ] Readme.md
 
 ## Environment
+
 - Vue
 - Typescript
 - Vite
