@@ -9,7 +9,8 @@
 		"preview": "vite preview",
 		"format": "prettier --write .",
 		"lint": "eslint . --ext .js,.jsx,.ts,.tsx,.vue",
-		"lint:fix": "eslint . --ext .js,.jsx,.ts,.tsx,.vue --fix"
+		"lint:fix": "eslint . --ext .js,.jsx,.ts,.tsx,.vue --fix",
+		"commit": "cz"
 	},
 	"config": {
 		"commitizen": {
