@@ -31,7 +31,7 @@
 -   [x] Set up [lint-staged](https://github.com/okonet/lint-staged#Configuration)
 -   [x] Set up [commitlint](https://ithelp.ithome.com.tw/m/articles/10278664)
 -   [x] Set up [commitizen](https://ithelp.ithome.com.tw/m/articles/10279064)
--   [x] Set up [commitlint and commitizen integration](https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/cz-commitlint)
+-   [x] Set up [commitlint and commitizen integration](https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/cz-commitlint) (failed to auto save message)
 -   [ ] Set up standard-version
 -   [ ] Set up codacy
 -   [ ] Set up lint for pull requests (GitHub action)
