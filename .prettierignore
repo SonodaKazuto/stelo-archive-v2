@@ -1,0 +1,11 @@
+# Intellij Idea
+.idea
+*.iml
+# Yarn
+.yarn
+yarn.lock
+.pnp.cjs
+.pnp.loader.mjs
+# Node
+node_modules
+build
