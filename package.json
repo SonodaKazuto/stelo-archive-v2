@@ -9,7 +9,13 @@
 		"preview": "vite preview",
 		"format": "prettier --write .",
 		"lint": "eslint . --ext .js,.jsx,.ts,.tsx,.vue",
-		"lint:fix": "eslint . --ext .js,.jsx,.ts,.tsx,.vue --fix"
+		"lint:fix": "eslint . --ext .js,.jsx,.ts,.tsx,.vue --fix",
+		"commit": "cz"
+	},
+	"config": {
+		"commitizen": {
+			"path": "@commitlint/cz-commitlint"
+		}
 	},
 	"dependencies": {
 		"vue": "^3.2.37"
@@ -17,9 +23,11 @@
 	"devDependencies": {
 		"@commitlint/cli": "^17.0.3",
 		"@commitlint/config-conventional": "^17.0.3",
+		"@commitlint/cz-commitlint": "^17.0.3",
 		"@typescript-eslint/eslint-plugin": "^5.30.5",
 		"@typescript-eslint/parser": "^5.30.5",
 		"@vitejs/plugin-vue": "^2.3.3",
+		"commitizen": "^4.2.4",
 		"eslint": "^8.19.0",
 		"eslint-config-prettier": "^8.5.0",
 		"eslint-plugin-eslint-comments": "^3.2.0",
@@ -28,6 +36,7 @@
 		"eslint-plugin-simple-import-sort": "^7.0.0",
 		"eslint-plugin-vue": "^9.2.0",
 		"husky": "^8.0.0",
+		"inquirer": "8",
 		"lint-staged": "^13.0.3",
 		"prettier": "2.7.1",
 		"prettier-plugin-sh": "^0.12.6",
