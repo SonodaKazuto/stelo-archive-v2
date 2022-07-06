@@ -14,8 +14,8 @@
 
 ### Vite
 
-- [ ] Modify tsconfig
-- [ ] Modify vite.config.ts
+- [ ] Modify [tsconfig](https://ithelp.ithome.com.tw/m/articles/10263733)
+- [ ] Modify [vite.config.ts](https://vitejs.dev/config/#esbuild)
 
 ### CI
 
@@ -43,3 +43,5 @@
 - Typescript
 - Vite
 - Yarn
+
+## Reference

@@ -14,7 +14,12 @@
 			"esnext",
 			"dom"
 		],
-		"skipLibCheck": true
+		"skipLibCheck": true,
+		"strictNullChecks": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"noImplicitReturns": true,
+		"forceConsistentCasingInFileNames": true
 	},
 	"include": [
 		"src/**/*.ts",
