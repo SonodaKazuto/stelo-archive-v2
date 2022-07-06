@@ -29,7 +29,9 @@
 -   [x] Set up prettier and eslint integration
 -   [ ] Add [eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort) (failed now)
 -   [x] Set up [lint-staged](https://github.com/okonet/lint-staged#Configuration)
--   [ ] Set up commitlint and commitizen
+-   [x] Set up [commitlint](https://ithelp.ithome.com.tw/m/articles/10278664)
+-   [x] Set up [commitizen](https://ithelp.ithome.com.tw/m/articles/10279064)
+-   [x] Set up [commitlint and commitizen integration](https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/cz-commitlint)
 -   [ ] Set up standard-version
 -   [ ] Set up codacy
 -   [ ] Set up lint for pull requests (GitHub action)
@@ -58,3 +60,4 @@
 4. [What is causing Error: .eslintrc.js: Environment key "vue/setup-compiler-macros" is unknown](https://stackoverflow.com/questions/69796772/what-is-causing-error-eslintrc-js-environment-key-vue-setup-compiler-macros)
 5. [解决 defineProps 定义问题](https://segmentfault.com/a/1190000041461442)
 6. [eslint-plugin-eslint-comments](https://github.com/mysticatea/eslint-plugin-eslint-comments)
+7. [使用ESLint, Prettier, Husky, Lint-staged以及Commitizen提升專案品質及一致性](https://medium.com/@danielhu95/set-up-eslint-pipeline-zh-tw-990d7d9eb68e)
