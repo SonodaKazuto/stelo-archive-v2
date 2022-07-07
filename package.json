@@ -10,7 +10,11 @@
 		"format": "prettier --write .",
 		"lint": "eslint . --ext .js,.jsx,.ts,.tsx,.vue",
 		"lint:fix": "eslint . --ext .js,.jsx,.ts,.tsx,.vue --fix",
-		"commit": "cz"
+		"commit": "cz",
+		"release": "standard-version",
+		"release:minor": "standard-version --release-as minor",
+		"release:patch": "standard-version --release-as patch",
+		"release:major": "standard-version --release-as major"
 	},
 	"config": {
 		"commitizen": {
@@ -42,6 +46,7 @@
 		"lint-staged": "^13.0.3",
 		"prettier": "2.7.1",
 		"prettier-plugin-sh": "^0.12.6",
+		"standard-version": "^9.5.0",
 		"typescript": "^4.7.4",
 		"vite": "^2.9.13",
 		"vite-plugin-eslint": "^1.6.1",
