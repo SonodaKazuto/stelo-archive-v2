@@ -43,7 +43,7 @@
 
 ### CD
 
--   [ ] Set up auto deploy (GitHub action)
+-   [x] Set up auto deploy (Netlify)
 
 ### Website
 
