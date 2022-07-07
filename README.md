@@ -1,5 +1,9 @@
 # Stelo : build my personal website from scratch
 
+[![wakatime](https://wakatime.com/badge/user/90a8ccc0-463e-48d6-8e05-22f7ef87c61c/project/85d10ca8-4598-4610-b01f-d583457f2986.svg)](https://wakatime.com/badge/user/90a8ccc0-463e-48d6-8e05-22f7ef87c61c/project/85d10ca8-4598-4610-b01f-d583457f2986)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/imomaliev/vue-ts/main.svg)](https://results.pre-commit.ci/latest/github/imomaliev/vue-ts/main)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3579023d4c6a4303a6dca3a6fb3f935f)](https://www.codacy.com/gh/SonodaKazuto/stelo/dashboard?utm_source=github.com&utm_medium=referral&utm_content=SonodaKazuto/stelo&utm_campaign=Badge_Grade)
+
 ## Todo
 
 ### Environment
@@ -32,9 +36,9 @@
 -   [x] Set up [commitlint](https://ithelp.ithome.com.tw/m/articles/10278664)
 -   [x] Set up [commitizen](https://ithelp.ithome.com.tw/m/articles/10279064)
 -   [x] Set up [commitlint and commitizen integration](https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/cz-commitlint) (failed to auto save message)
--   [ ] Set up standard-version
--   [ ] Set up codacy
--   [ ] Set up lint for pull requests (GitHub action)
+-   [x] Set up standard-version
+-   [x] Set up codacy
+-   [x] Set up lint for pull requests (GitHub action)
 -   [ ] Set up vitest (later)
 
 ### CD
