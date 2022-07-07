@@ -3,6 +3,7 @@
 [![wakatime](https://wakatime.com/badge/user/90a8ccc0-463e-48d6-8e05-22f7ef87c61c/project/85d10ca8-4598-4610-b01f-d583457f2986.svg)](https://wakatime.com/badge/user/90a8ccc0-463e-48d6-8e05-22f7ef87c61c/project/85d10ca8-4598-4610-b01f-d583457f2986)
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/imomaliev/vue-ts/main.svg)](https://results.pre-commit.ci/latest/github/imomaliev/vue-ts/main)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/3579023d4c6a4303a6dca3a6fb3f935f)](https://www.codacy.com/gh/SonodaKazuto/stelo/dashboard?utm_source=github.com&utm_medium=referral&utm_content=SonodaKazuto/stelo&utm_campaign=Badge_Grade)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ba6ddd69-f2d2-4455-a175-f0e991099f92/deploy-status)](https://app.netlify.com/sites/sonodakazuto/deploys)
 
 ## Todo
 
