@@ -299,3 +299,6 @@ yarn-error.log
 
 # End of https://www.toptal.com/developers/gitignore/api/macOS,Intellij+all,Node,yarn,Vue,Vuejs
 n
+
+# Local Netlify folder
+.netlify
