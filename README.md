@@ -22,7 +22,6 @@
 -   [ ] Modify [tsconfig](https://ithelp.ithome.com.tw/m/articles/10263733)
 -   [ ] Modify [vite.config.ts](https://vitejs.dev/config/#esbuild)
 -   Add [plugins](https://github.com/vitejs/awesome-vite#plugins)
-    -   [ ] Add unocss
 
 ### CI
 
@@ -48,7 +47,11 @@
 
 ### Website
 
--   [ ] Readme.md
+-   [ ] Add Unocss
+-   [ ] Add markdown support
+-   [ ] Add dark mode support
+-   [ ] Add i18n support
+-   [ ] Add router support
 
 ## Environment
 
