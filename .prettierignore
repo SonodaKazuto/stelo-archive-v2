@@ -13,3 +13,5 @@ src/**/*.js
 build
 # Test
 coverage
+# Netlify
+.netlify
