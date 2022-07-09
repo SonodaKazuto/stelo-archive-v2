@@ -1,5 +1,13 @@
 {
 	"name": "stelo",
+	"author": "SonodaKazuto <https://github.com/SonodaKazuto>",
+	"homepage": "sonodakazuto.stelo37710.moe",
+	"license": "MIT",
+	"description": "My personal website build from scratch",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/SonodaKazuto/stelo"
+	},
 	"private": true,
 	"version": "0.0.0",
 	"scripts": {
