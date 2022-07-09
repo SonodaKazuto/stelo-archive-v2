@@ -46,7 +46,8 @@
 
 ### Website
 
--   [ ] Add Unocss
+-   [x] Add Unocss
+-   [x] Add Unocss preset (uno, attributify, icons)
 -   [ ] Add markdown support
 -   [ ] Add dark mode support
 -   [ ] Add i18n support
