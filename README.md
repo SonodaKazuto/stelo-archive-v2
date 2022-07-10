@@ -70,3 +70,4 @@
 5. [解决 defineProps 定义问题](https://segmentfault.com/a/1190000041461442)
 6. [eslint-plugin-eslint-comments](https://github.com/mysticatea/eslint-plugin-eslint-comments)
 7. [使用 ESLint, Prettier, Husky, Lint-staged 以及 Commitizen 提升專案品質及一致性](https://medium.com/@danielhu95/set-up-eslint-pipeline-zh-tw-990d7d9eb68e)
+8. [commitizen with security update](https://github.com/ryansonshine/cz-cli)
