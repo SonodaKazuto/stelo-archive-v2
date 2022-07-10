@@ -3531,7 +3531,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"inquirer@npm:8.2.4, inquirer@npm:^8.2.2":
+"inquirer@npm:8, inquirer@npm:^8.2.2":
   version: 8.2.4
   resolution: "inquirer@npm:8.2.4"
   dependencies:
@@ -5565,7 +5565,7 @@ __metadata:
     eslint-plugin-simple-import-sort: ^7.0.0
     eslint-plugin-vue: ^9.2.0
     husky: ^8.0.1
-    inquirer: 8.2.4
+    inquirer: 8
     lint-staged: ^13.0.3
     prettier: 2.7.1
     prettier-plugin-sh: ^0.12.6
