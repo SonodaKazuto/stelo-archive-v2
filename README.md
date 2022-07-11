@@ -21,7 +21,6 @@
 
 -   [ ] Modify [tsconfig](https://ithelp.ithome.com.tw/m/articles/10263733)
 -   [ ] Modify [vite.config.ts](https://vitejs.dev/config/#esbuild)
--   Add [plugins](https://github.com/vitejs/awesome-vite#plugins)
 
 ### CI
 
@@ -37,8 +36,7 @@
 -   [x] Set up [commitizen](https://ithelp.ithome.com.tw/m/articles/10279064)
 -   [x] Set up [commitlint and commitizen integration](https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/cz-commitlint) (failed to auto save message)
 -   [x] Set up standard-version
--   [x] Set up codacy
--   [x] Set up lint for pull requests (GitHub action)
+-   [ ] Set up code quality tools
 -   [ ] Set up vitest (later)
 
 ### CD
@@ -49,7 +47,7 @@
 
 -   [x] Add Unocss
 -   [x] Add Unocss preset (uno, attributify, icons)
--   [ ] Add markdown support
+-   [x] Add markdown support
 -   [ ] Add dark mode support
 -   [ ] Add i18n support
 -   [ ] Add router support
@@ -71,3 +69,6 @@
 6. [eslint-plugin-eslint-comments](https://github.com/mysticatea/eslint-plugin-eslint-comments)
 7. [使用 ESLint, Prettier, Husky, Lint-staged 以及 Commitizen 提升專案品質及一致性](https://medium.com/@danielhu95/set-up-eslint-pipeline-zh-tw-990d7d9eb68e)
 8. [commitizen with security update](https://github.com/ryansonshine/cz-cli)
+9. [commitilint pre-commit hook](https://github.com/alessandrojcm/commitlint-pre-commit-hook)
+10. [shim.d.ts](https://ithelp.ithome.com.tw/articles/10202589?sc=iThelpR)
+11. [TypeScript type exports](https://github.com/vuejs/vue-loader/issues/1281)
