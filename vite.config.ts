@@ -6,6 +6,7 @@ import unocss from '@unocss/vite';
 import unocssPresetUno from '@unocss/preset-uno';
 import unocssPresetAttributify from '@unocss/preset-attributify';
 import unocssPresetIcons from '@unocss/preset-icons';
+import markdown from 'vite-plugin-md';
 
 // https://vitejs.dev/config/
 export default defineConfig({
@@ -22,6 +23,7 @@ export default defineConfig({
 				unocssPresetIcons(),
 			],
 		}),
+		markdown(),
 	],
 	publicDir: 'static',
 	build: {
