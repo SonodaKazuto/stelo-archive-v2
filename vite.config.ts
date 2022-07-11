@@ -25,7 +25,13 @@ export default defineConfig({
 				unocssPresetIcons(),
 			],
 		}),
-		markdown(),
+		markdown({
+			markdownItOptions: {
+				html: true,
+				linkify: true,
+				typographer: true,
+			},
+		}),
 	],
 	publicDir: 'static',
 	build: {
