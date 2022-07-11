@@ -21,7 +21,6 @@
 
 -   [ ] Modify [tsconfig](https://ithelp.ithome.com.tw/m/articles/10263733)
 -   [ ] Modify [vite.config.ts](https://vitejs.dev/config/#esbuild)
--   Add [plugins](https://github.com/vitejs/awesome-vite#plugins)
 
 ### CI
 
@@ -37,8 +36,7 @@
 -   [x] Set up [commitizen](https://ithelp.ithome.com.tw/m/articles/10279064)
 -   [x] Set up [commitlint and commitizen integration](https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/cz-commitlint) (failed to auto save message)
 -   [x] Set up standard-version
--   [x] Set up codacy
--   [x] Set up lint for pull requests (GitHub action)
+-   [ ] Set up code quality tools
 -   [ ] Set up vitest (later)
 
 ### CD
