@@ -70,3 +70,5 @@
 7. [使用 ESLint, Prettier, Husky, Lint-staged 以及 Commitizen 提升專案品質及一致性](https://medium.com/@danielhu95/set-up-eslint-pipeline-zh-tw-990d7d9eb68e)
 8. [commitizen with security update](https://github.com/ryansonshine/cz-cli)
 9. [commitilint pre-commit hook](https://github.com/alessandrojcm/commitlint-pre-commit-hook)
+10. [shim.d.ts](https://ithelp.ithome.com.tw/articles/10202589?sc=iThelpR)
+11. [TypeScript type exports](https://github.com/vuejs/vue-loader/issues/1281)
