@@ -59,6 +59,12 @@
 -   Vite
 -   Yarn
 
+## Usage
+
+```shell
+yarn install
+```
+
 ## Reference
 
 1. [Creating vite vue ts template: GitHub project template](https://dev.to/imomaliev/github-project-template-1mc3)
