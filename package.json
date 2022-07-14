@@ -39,7 +39,7 @@
 		"@iconify/json": "^2.1.77",
 		"@ryansonshine/commitizen": "^4.2.8",
 		"@types/markdown-it": "^12.2.3",
-		"@types/node": "^18.0.3",
+		"@types/node": "^18.0.4",
 		"@typescript-eslint/eslint-plugin": "^5.30.6",
 		"@typescript-eslint/parser": "^5.30.6",
 		"@unocss/preset-attributify": "^0.44.1",
