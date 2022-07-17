@@ -248,6 +248,8 @@ build/
 
 # yarn v2
 .yarn/cache
+.yarn/plugins
+.yarn/releases
 .yarn/unplugged
 .yarn/build-state.yml
 .yarn/install-state.gz
