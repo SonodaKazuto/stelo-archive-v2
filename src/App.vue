@@ -7,20 +7,8 @@ import ReadMe from './components/ReadMe.vue';
 
 <template>
 	<div>
-		<a href="https://vitejs.dev" target="_blank">
-			<img
-				src="../../stelo/src/assets/vite.svg"
-				class="logo"
-				alt="Vite logo"
-			/>
-		</a>
-		<a href="https://vuejs.org" target="_blank">
-			<img
-				src="../../stelo/src/assets/vue.svg"
-				class="logo vue"
-				alt="Vue logo"
-			/>
-		</a>
+		<a href="https://vitejs.dev" target="_blank"> Vite </a>
+		<a href="https://vuejs.org" target="_blank"> Vue </a>
 	</div>
 	<HelloWorld msg="Vite + Vue" />
 	<ReadMe />
