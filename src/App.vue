@@ -6,18 +6,36 @@ import ReadMe from './components/ReadMe.vue';
 </script>
 
 <template>
-	<img alt="Vue logo" src="./assets/logo.png" />
-	<HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
+	<div>
+		<a href="https://vitejs.dev" target="_blank">
+			<img
+				src="../../stelo/src/assets/vite.svg"
+				class="logo"
+				alt="Vite logo"
+			/>
+		</a>
+		<a href="https://vuejs.org" target="_blank">
+			<img
+				src="../../stelo/src/assets/vue.svg"
+				class="logo vue"
+				alt="Vue logo"
+			/>
+		</a>
+	</div>
+	<HelloWorld msg="Vite + Vue" />
 	<ReadMe />
 </template>
 
 <style>
-#app {
-	font-family: Avenir, Helvetica, Arial, sans-serif;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
-	text-align: center;
-	color: #2c3e50;
-	margin-top: 60px;
+.logo {
+	height: 6em;
+	padding: 1.5em;
+	will-change: filter;
+}
+.logo:hover {
+	filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.vue:hover {
+	filter: drop-shadow(0 0 2em #42b883aa);
 }
 </style>
