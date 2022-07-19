@@ -947,7 +947,7 @@ __metadata:
     magic-string: "npm:^0.26.2"
   peerDependencies:
     vite: ^2.9.0 || ^3.0.0-0
-  checksum: 2ad0f20cbdbe71f9eb73f7adc876afc4fdd1fda09898e7b426c55ac59e8a085375a428b76184e1c94a6b110eed784ec37cea886a791defe42d6e4010382b2fd1
+  checksum: 2ad0f20cbdbe71f9eb73f7adc876afc4fdd1fda09898e7b426c55ac59e8a085375a428b76184e1c94a6b110eed784ec37cea886a791defe42d6e4010382b2
   languageName: node
   linkType: hard
 
