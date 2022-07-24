@@ -75,6 +75,6 @@
 		"vite-plugin-progress": "^0.0.3",
 		"vite-plugin-theme": "^0.8.6",
 		"vue-eslint-parser": "^9.0.3",
-		"vue-tsc": "^0.38.9"
+		"vue-tsc": "^0.39.0"
 	}
 }
