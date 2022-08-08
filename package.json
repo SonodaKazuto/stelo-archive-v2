@@ -37,7 +37,7 @@
 		"@commitlint/cli": "^17.0.3",
 		"@commitlint/config-conventional": "^17.0.3",
 		"@commitlint/cz-commitlint": "^17.0.3",
-		"@iconify/json": "^2.1.87",
+		"@iconify/json": "^2.1.88",
 		"@rollup/pluginutils": "^4.2.1",
 		"@ryansonshine/commitizen": "^4.2.8",
 		"@types/markdown-it": "^12.2.3",
@@ -77,6 +77,6 @@
 		"vite-plugin-theme": "^0.8.6",
 		"vite-plugin-vue-inspector": "^1.1.1",
 		"vue-eslint-parser": "^9.0.3",
-		"vue-tsc": "^0.39.4"
+		"vue-tsc": "^0.39.5"
 	}
 }
