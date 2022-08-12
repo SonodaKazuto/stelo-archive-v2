@@ -630,13 +630,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@iconify/json@npm:^2.1.89":
-  version: 2.1.89
-  resolution: "@iconify/json@npm:2.1.89"
+"@iconify/json@npm:^2.1.90":
+  version: 2.1.90
+  resolution: "@iconify/json@npm:2.1.90"
   dependencies:
     "@iconify/types": "npm:*"
     pathe: "npm:^0.3.0"
-  checksum: b51445365fc87b303d61f5bcb5a25ea46c4fc85dd840f26f8ef20005922e5f5ad6b57d95e6550f02cd9a035c7f00b1c4a69b3ff1c5b7399e148cb9bbef8d86cc
+  checksum: 326654a2531521d2bee5dfe243c54b8b9d29e9c0b847d552e4e23c9a6bc319dc81ea190857cffcb1764970e56f0e436df1224a010f726dbe851772020fd1e5c9
   languageName: node
   linkType: hard
 
@@ -981,10 +981,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^18.7.1":
-  version: 18.7.1
-  resolution: "@types/node@npm:18.7.1"
-  checksum: f53d217db982c3855765a422a3a7fb375a5584cfcbd8ace601dafc3c093c552e2a3f4123d5290797f9b198a91871d8517c58ddc6b54ac6ed1581d93bb4ad7bca
+"@types/node@npm:^18.7.2":
+  version: 18.7.2
+  resolution: "@types/node@npm:18.7.2"
+  checksum: 17c200f060504176b64bb407e673a4e2c53b3e67a0e0baae22ef3da6ac756bdae045329b2848797f73f33d710fb8824c98d3a351c40620257275f60ea381cd04
   languageName: node
   linkType: hard
 
@@ -1369,13 +1369,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vitejs/plugin-vue@npm:^3.0.1":
-  version: 3.0.1
-  resolution: "@vitejs/plugin-vue@npm:3.0.1"
+"@vitejs/plugin-vue@npm:^3.0.2":
+  version: 3.0.2
+  resolution: "@vitejs/plugin-vue@npm:3.0.2"
   peerDependencies:
     vite: ^3.0.0
     vue: ^3.2.25
-  checksum: 907f005e06df6a780556a66bfeb791a55e25ac7d4a9253d8008711605f530938659ac11212fa78e3ae0ced23d0e8e3e1283af3301df6b0748b169d24d961be82
+  checksum: 21ee2ca530b28f8a16956ee00885474ad4149abb58d20a0e15ae6a6367d14d9734820f2bfd3a1e97f40c4c878f73aaf41e0352595fbc2903fb6b6655daf3b312
   languageName: node
   linkType: hard
 
@@ -6608,9 +6608,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rollup@npm:^2.75.6, rollup@npm:^2.77.0":
-  version: 2.77.0
-  resolution: "rollup@npm:2.77.0"
+"rollup@npm:>=2.75.6 <2.77.0 || ~2.77.0, rollup@npm:^2.77.2":
+  version: 2.77.3
+  resolution: "rollup@npm:2.77.3"
   dependencies:
     fsevents: "npm:~2.3.2"
   dependenciesMeta:
@@ -6618,7 +6618,7 @@ __metadata:
       optional: true
   bin:
     rollup: dist/bin/rollup
-  checksum: 26d3073a8f58a1da6fcb02142faccef7e8c1711a02cc7e6d0940b9000c4963b5ac35eeb252ebd4033d048305e90679357dd622d6a3c55de378386c825bb053a5
+  checksum: 7f869c91638cd3e2d36c4d1ec337900e4fd14285d4fd1e6ebfc2c532abc17b69bffdb8e48682b5237a3ec303fcb2e3b878864f8d5c5e51e05b28dd3d980a5cd7
   languageName: node
   linkType: hard
 
@@ -6962,18 +6962,18 @@ __metadata:
     "@commitlint/cli": "npm:^17.0.3"
     "@commitlint/config-conventional": "npm:^17.0.3"
     "@commitlint/cz-commitlint": "npm:^17.0.3"
-    "@iconify/json": "npm:^2.1.89"
+    "@iconify/json": "npm:^2.1.90"
     "@rollup/pluginutils": "npm:^4.2.1"
     "@ryansonshine/commitizen": "npm:^4.2.8"
     "@types/markdown-it": "npm:^12.2.3"
-    "@types/node": "npm:^18.7.1"
+    "@types/node": "npm:^18.7.2"
     "@typescript-eslint/eslint-plugin": "npm:^5.33.0"
     "@typescript-eslint/parser": "npm:^5.33.0"
     "@unocss/preset-attributify": "npm:^0.45.6"
     "@unocss/preset-icons": "npm:^0.45.6"
     "@unocss/preset-uno": "npm:^0.45.6"
     "@unocss/vite": "npm:^0.45.6"
-    "@vitejs/plugin-vue": "npm:^3.0.1"
+    "@vitejs/plugin-vue": "npm:^3.0.2"
     "@vue/eslint-config-prettier": "npm:^7.0.0"
     "@vue/eslint-config-typescript": "npm:^11.0.0"
     eslint: "npm:^8.21.0"
@@ -6995,8 +6995,8 @@ __metadata:
     prismjs: "npm:^1.28.0"
     standard-version: "npm:^9.5.0"
     typescript: "npm:^4.7.4"
-    vite: "npm:^3.0.5"
-    vite-plugin-eslint: "npm:^1.7.0"
+    vite: "npm:^3.0.6"
+    vite-plugin-eslint: "npm:^1.8.0"
     vite-plugin-md: "npm:^0.20.2"
     vite-plugin-progress: "npm:^0.0.3"
     vite-plugin-theme: "npm:^0.8.6"
@@ -7628,17 +7628,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite-plugin-eslint@npm:^1.7.0":
-  version: 1.7.0
-  resolution: "vite-plugin-eslint@npm:1.7.0"
+"vite-plugin-eslint@npm:^1.8.0":
+  version: 1.8.0
+  resolution: "vite-plugin-eslint@npm:1.8.0"
   dependencies:
     "@rollup/pluginutils": "npm:^4.2.1"
     "@types/eslint": "npm:^8.4.5"
-    rollup: "npm:^2.77.0"
+    rollup: "npm:^2.77.2"
   peerDependencies:
     eslint: ">=7"
     vite: ">=2"
-  checksum: fd9af177b099727bbb57a569d80185843720d942dbd37eec6ae8a34425b7c32b10485e5d6046d67cfb97008e6f286859d9457c35c4bbba929a958bc566c46b29
+  checksum: e6bd297d485d6c098a0c8ce65d7ccbdf7d7b5fc1873b269251110c29437c3ee06b4ed8bf536340f5f044eca25b398af3151a20c2274797e4458dc78800badcd6
   languageName: node
   linkType: hard
 
@@ -7709,15 +7709,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:^3.0.5":
-  version: 3.0.5
-  resolution: "vite@npm:3.0.5"
+"vite@npm:^3.0.6":
+  version: 3.0.6
+  resolution: "vite@npm:3.0.6"
   dependencies:
     esbuild: "npm:^0.14.47"
     fsevents: "npm:~2.3.2"
     postcss: "npm:^8.4.16"
     resolve: "npm:^1.22.1"
-    rollup: "npm:^2.75.6"
+    rollup: "npm:>=2.75.6 <2.77.0 || ~2.77.0"
   peerDependencies:
     less: "*"
     sass: "*"
@@ -7737,7 +7737,7 @@ __metadata:
       optional: true
   bin:
     vite: bin/vite.js
-  checksum: 1e411e404959a6e544277154e5141d065423a73551f7826b6ca453c478b39df5234a5b67cb5e2372e416b44f5810d155f09e8957174d253d61c2da27807d9bcd
+  checksum: 0a139c60ce1180df99feccd8c6164104d4936fbe60104ec445287180c8906d7799fe3d988888df5796a586753e81c2d2578b201532621cf584845ce12d44140d
   languageName: node
   linkType: hard
 
