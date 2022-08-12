@@ -630,13 +630,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@iconify/json@npm:^2.1.90":
-  version: 2.1.90
-  resolution: "@iconify/json@npm:2.1.90"
+"@iconify/json@npm:^2.1.91":
+  version: 2.1.91
+  resolution: "@iconify/json@npm:2.1.91"
   dependencies:
     "@iconify/types": "npm:*"
     pathe: "npm:^0.3.0"
-  checksum: 326654a2531521d2bee5dfe243c54b8b9d29e9c0b847d552e4e23c9a6bc319dc81ea190857cffcb1764970e56f0e436df1224a010f726dbe851772020fd1e5c9
+  checksum: a63527f56805d4a51f0d4ee734f731fa302a073ad35d1adff970b86c255fef24d399fffef5849d68f98e271c79e9a05e3d2779ea80329d6b4512404eefb58b33
   languageName: node
   linkType: hard
 
@@ -1369,13 +1369,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vitejs/plugin-vue@npm:^3.0.2":
-  version: 3.0.2
-  resolution: "@vitejs/plugin-vue@npm:3.0.2"
+"@vitejs/plugin-vue@npm:^3.0.3":
+  version: 3.0.3
+  resolution: "@vitejs/plugin-vue@npm:3.0.3"
   peerDependencies:
     vite: ^3.0.0
     vue: ^3.2.25
-  checksum: 21ee2ca530b28f8a16956ee00885474ad4149abb58d20a0e15ae6a6367d14d9734820f2bfd3a1e97f40c4c878f73aaf41e0352595fbc2903fb6b6655daf3b312
+  checksum: 6fa6f312c8877a0d906048c11e000d70eee1e02a5486cd37dbb842a2aa77410f8c85c85ee6ece5a07d17793469b9d1e65ff0c269d06b661d3a89492a630b770d
   languageName: node
   linkType: hard
 
@@ -6962,7 +6962,7 @@ __metadata:
     "@commitlint/cli": "npm:^17.0.3"
     "@commitlint/config-conventional": "npm:^17.0.3"
     "@commitlint/cz-commitlint": "npm:^17.0.3"
-    "@iconify/json": "npm:^2.1.90"
+    "@iconify/json": "npm:^2.1.91"
     "@rollup/pluginutils": "npm:^4.2.1"
     "@ryansonshine/commitizen": "npm:^4.2.8"
     "@types/markdown-it": "npm:^12.2.3"
@@ -6973,7 +6973,7 @@ __metadata:
     "@unocss/preset-icons": "npm:^0.45.6"
     "@unocss/preset-uno": "npm:^0.45.6"
     "@unocss/vite": "npm:^0.45.6"
-    "@vitejs/plugin-vue": "npm:^3.0.2"
+    "@vitejs/plugin-vue": "npm:^3.0.3"
     "@vue/eslint-config-prettier": "npm:^7.0.0"
     "@vue/eslint-config-typescript": "npm:^11.0.0"
     eslint: "npm:^8.21.0"
@@ -6995,7 +6995,7 @@ __metadata:
     prismjs: "npm:^1.28.0"
     standard-version: "npm:^9.5.0"
     typescript: "npm:^4.7.4"
-    vite: "npm:^3.0.6"
+    vite: "npm:^3.0.7"
     vite-plugin-eslint: "npm:^1.8.0"
     vite-plugin-md: "npm:^0.20.2"
     vite-plugin-progress: "npm:^0.0.3"
@@ -7709,9 +7709,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:^3.0.6":
-  version: 3.0.6
-  resolution: "vite@npm:3.0.6"
+"vite@npm:^3.0.7":
+  version: 3.0.7
+  resolution: "vite@npm:3.0.7"
   dependencies:
     esbuild: "npm:^0.14.47"
     fsevents: "npm:~2.3.2"
@@ -7737,7 +7737,7 @@ __metadata:
       optional: true
   bin:
     vite: bin/vite.js
-  checksum: 0a139c60ce1180df99feccd8c6164104d4936fbe60104ec445287180c8906d7799fe3d988888df5796a586753e81c2d2578b201532621cf584845ce12d44140d
+  checksum: 4b562c72a5fcf07df8d6289325005be54db94cc700935246a832d8285310aba012860b260ef7d040cf0b697c834c67cf22084405b48d07dc916601556542a9f8
   languageName: node
   linkType: hard
 
