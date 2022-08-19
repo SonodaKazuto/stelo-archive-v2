@@ -1,7 +1,6 @@
 import { defineConfig } from 'vite';
 import vue from '@vitejs/plugin-vue';
 import eslint from 'vite-plugin-eslint';
-import buildProgress from 'vite-plugin-progress';
 import inspector from 'vite-plugin-vue-inspector';
 import unocss from '@unocss/vite';
 import unocssPresetUno from '@unocss/preset-uno';
@@ -18,7 +17,6 @@ export default defineConfig({
 		eslint({
 			cache: false,
 		}),
-		buildProgress(),
 		inspector(),
 		unocss({
 			presets: [
