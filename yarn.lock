@@ -1138,7 +1138,7 @@ __metadata:
   checksum: f192cb1f4b5136449ccc2ca5ea777f39f0bc688e32ca7fbf77d6f4aca6091e5e5dfc7b8ecde82857918b6ed8b9c2b71039a5b3103e89d87f940b0a5b2ae99498
   languageName: node
   linkType: hard
-  
+
 "@typescript-eslint/type-utils@npm:5.33.1":
   version: 5.33.1
   resolution: "@typescript-eslint/type-utils@npm:5.33.1"
@@ -1220,7 +1220,7 @@ __metadata:
   checksum: 29b047d1229d9640a06b30c4835a319e511c3675b1c914b6c6272542ce49d0f0636a74be279fcee64d51b1fd07e6bfc7cf47ff38c0d679e75e80e22349f63077
   languageName: node
   linkType: hard
-  
+
 "@typescript-eslint/utils@npm:5.33.1":
   version: 5.33.1
   resolution: "@typescript-eslint/utils@npm:5.33.1"
@@ -3610,7 +3610,7 @@ __metadata:
   checksum: 37b1372b3481e978856692724f065da7e3ded80c1a57fd347ad9c63692b6310756d0eb432badb5afaa125f0d4fcbc7692ba93ae85b17bd8e628bd8c8bcd03c1d
   languageName: node
   linkType: hard
-  
+
 "eslint@npm:^8.22.0":
   version: 8.22.0
   resolution: "eslint@npm:8.22.0"
