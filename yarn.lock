@@ -967,7 +967,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^10.0.3, @types/node@npm:^10.3.6":
+"@types/node@npm:^10.0.3":
   version: 10.17.60
   resolution: "@types/node@npm:10.17.60"
   checksum: 40a5535f8a2d839799b41557a170a334415bab485ee73dd30534eefad9a63254d12d2faf61ce7cbce2521d736ed0570e18f75d780daad2129d6ca21e8d1811ef
@@ -6316,13 +6316,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"progress@npm:^2.0.3":
-  version: 2.0.3
-  resolution: "progress@npm:2.0.3"
-  checksum: 072fe9bb83ecd061b3e8ac86af645d80f62278cf3b60648e7f75dd556d0f44c829753d386fd359346c40d70c637166691a121657fda2ee494d4496890965cad3
-  languageName: node
-  linkType: hard
-
 "promise-inflight@npm:^1.0.1":
   version: 1.0.1
   resolution: "promise-inflight@npm:1.0.1"
@@ -6383,15 +6376,6 @@ __metadata:
   version: 4.0.1
   resolution: "quick-lru@npm:4.0.1"
   checksum: f50ac7cc60a469163520971b17c9c1a69df99b2c575abbdf0d3ef0a409deac6b63381b30b5b7a92f2b79f77ddcae15b041d119d9f39dbff9f5ef4ae70a13bb89
-  languageName: node
-  linkType: hard
-
-"rd@npm:^2.0.1":
-  version: 2.0.1
-  resolution: "rd@npm:2.0.1"
-  dependencies:
-    "@types/node": "npm:^10.3.6"
-  checksum: 1b9192d70b91c323265d242bffb51a8bd7c656fcc15bf101203ae5c023cbfb3d2c20566276e7f5d5ccee2e4f1deb1e5779322a19f79800846925c75ab9825d60
   languageName: node
   linkType: hard
 
@@ -6998,7 +6982,6 @@ __metadata:
     vite: "npm:^3.0.8"
     vite-plugin-eslint: "npm:^1.8.1"
     vite-plugin-md: "npm:^0.20.2"
-    vite-plugin-progress: "npm:^0.0.3"
     vite-plugin-theme: "npm:^0.8.6"
     vite-plugin-vue-inspector: "npm:^1.1.1"
     vue: "npm:^3.2.37"
@@ -7655,19 +7638,6 @@ __metadata:
     "@rollup/pluginutils": ^4.2.1
     rollup: ^2.77.0
   checksum: 434b69acdd88279673a29f9483bd9b82427b9e4efe1bd28f67e28d4930be9950f84dc34572527791dc5c3703e638deae874a6be0b1a61264a6b68f6bcab9c0b7
-  languageName: node
-  linkType: hard
-
-"vite-plugin-progress@npm:^0.0.3":
-  version: 0.0.3
-  resolution: "vite-plugin-progress@npm:0.0.3"
-  dependencies:
-    picocolors: "npm:^1.0.0"
-    progress: "npm:^2.0.3"
-    rd: "npm:^2.0.1"
-  peerDependencies:
-    vite: ">2.0.0-0"
-  checksum: 0057580331d82be6b2d82071da4a2ce74d22ee2bff1bd82b8e3827031425f04828056aa7d33fa51eae3eb29ff9530310b1a24600aa6e3719f1eea3358f6065cd
   languageName: node
   linkType: hard
 
