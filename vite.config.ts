@@ -8,7 +8,6 @@ import unocssPresetUno from '@unocss/preset-uno';
 import unocssPresetAttributify from '@unocss/preset-attributify';
 import unocssPresetIcons from '@unocss/preset-icons';
 import markdown from 'vite-plugin-md';
-//import * as path from 'path';
 
 // https://vitejs.dev/config/
 export default defineConfig({
