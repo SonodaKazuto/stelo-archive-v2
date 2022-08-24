@@ -960,10 +960,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:*, @types/node@npm:>=12, @types/node@npm:^18.7.10":
-  version: 18.7.10
-  resolution: "@types/node@npm:18.7.10"
-  checksum: f25d5f3cbcba1f8f9c8837229532ea0190174802c5ffe81c5f690b004a92754541dcb8be58ec43696d500ca7830073b42024f8d0fa47099ee59b179b3039d5ab
+"@types/node@npm:*, @types/node@npm:>=12, @types/node@npm:^18.7.11":
+  version: 18.7.11
+  resolution: "@types/node@npm:18.7.11"
+  checksum: 0b3ba9f4cd396e6653ba8a820c7068bd313a5b178ea6d2eaddfdb7b8b9c632fe3a59f4c537fda3f9484c6698805eb4422a633cf783fc67bad5926312a3c815f3
   languageName: node
   linkType: hard
 
@@ -3205,9 +3205,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-vue@npm:^9.3.0":
-  version: 9.3.0
-  resolution: "eslint-plugin-vue@npm:9.3.0"
+"eslint-plugin-vue@npm:^9.4.0":
+  version: 9.4.0
+  resolution: "eslint-plugin-vue@npm:9.4.0"
   dependencies:
     eslint-utils: "npm:^3.0.0"
     natural-compare: "npm:^1.4.0"
@@ -3218,7 +3218,7 @@ __metadata:
     xml-name-validator: "npm:^4.0.0"
   peerDependencies:
     eslint: ^6.2.0 || ^7.0.0 || ^8.0.0
-  checksum: 64a2733cfa7a52a66788f50f59f0a7b4987e61a05788e98497a78bda1d40cca52a17089ea066564dc603f209907181dd31e06cebee54abec9b6db65db208dd58
+  checksum: 9f14394ef52613e93af2a67f35c8d1462567be202639052f9ef36a4bfddaa3ab54990fcd78fd438069f4f2b723e83a813b1bc190a00f7bb68d23f45b9728bad4
   languageName: node
   linkType: hard
 
@@ -5062,12 +5062,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"markdown-it-prism@npm:^2.2.4":
-  version: 2.2.4
-  resolution: "markdown-it-prism@npm:2.2.4"
+"markdown-it-prism@npm:^2.2.5":
+  version: 2.2.5
+  resolution: "markdown-it-prism@npm:2.2.5"
   dependencies:
-    prismjs: "npm:1.28.0"
-  checksum: 6ec1f80599397768e53ba26a5b4d570875ae197a614572dae5e5f982e30c7a261e74870220e84ef2e9ca36f2c01f5946ce439ee9bdc230887f3982739f0365d5
+    prismjs: "npm:1.29.0"
+  checksum: b7ef650cebf96b0ee43121cda3133ea034a03eb03c5a09fe5a46617f86be3c494080abecfc29633278d08e1e7a9900fb40128c3af40b5359198055003444ec5f
   languageName: node
   linkType: hard
 
@@ -5936,10 +5936,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prismjs@npm:1.28.0, prismjs@npm:^1.28.0":
-  version: 1.28.0
-  resolution: "prismjs@npm:1.28.0"
-  checksum: 5666a3285eec5711e9c70bab61c16bb42151d59f43784910cdcfa91baf444957f7fbe0156c8c376a4ebefe929ab76d677263afe5bde67bb4418ec553bd91c2af
+"prismjs@npm:1.29.0, prismjs@npm:^1.29.0":
+  version: 1.29.0
+  resolution: "prismjs@npm:1.29.0"
+  checksum: 9d15875f071a2495c3ca75e77c6e1149229e073262e960655c41c85a2cd9b76ac45b698c79570ffb76cdf388d8c19d8cbcc49bbbed175c36401e153708fde7d7
   languageName: node
   linkType: hard
 
@@ -6584,7 +6584,7 @@ __metadata:
     "@rollup/pluginutils": "npm:^4.2.1"
     "@ryansonshine/commitizen": "npm:^4.2.8"
     "@types/markdown-it": "npm:^12.2.3"
-    "@types/node": "npm:^18.7.10"
+    "@types/node": "npm:^18.7.11"
     "@typescript-eslint/eslint-plugin": "npm:^5.34.0"
     "@typescript-eslint/parser": "npm:^5.34.0"
     "@unocss/preset-attributify": "npm:^0.45.12"
@@ -6600,17 +6600,17 @@ __metadata:
     eslint-plugin-import: "npm:^2.26.0"
     eslint-plugin-prettier-vue: "npm:^4.2.0"
     eslint-plugin-simple-import-sort: "npm:^7.0.0"
-    eslint-plugin-vue: "npm:^9.3.0"
+    eslint-plugin-vue: "npm:^9.4.0"
     happy-dom: "npm:^6.0.4"
     husky: "npm:^8.0.1"
     inquirer: "npm:8.2.4"
     lint-staged: "npm:^13.0.3"
     markdown-it: "npm:^13.0.1"
     markdown-it-anchor: "npm:^8.6.4"
-    markdown-it-prism: "npm:^2.2.4"
+    markdown-it-prism: "npm:^2.2.5"
     prettier: "npm:2.7.1"
     prettier-plugin-sh: "npm:^0.12.8"
-    prismjs: "npm:^1.28.0"
+    prismjs: "npm:^1.29.0"
     standard-version: "npm:^9.5.0"
     typescript: "npm:^4.7.4"
     vite: "npm:^3.0.9"
