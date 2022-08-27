@@ -10,7 +10,7 @@
 	},
 	"private": true,
 	"version": "0.0.0",
-	"packageManager": "yarn@4.0.0-rc.14",
+	"packageManager": "yarn@4.0.0-rc.15",
 	"scripts": {
 		"postinstall": "husky install",
 		"dev": "vite",
