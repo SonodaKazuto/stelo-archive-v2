@@ -359,13 +359,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@commitlint/cli@npm:^17.1.1":
-  version: 17.1.1
-  resolution: "@commitlint/cli@npm:17.1.1"
+"@commitlint/cli@npm:^17.1.2":
+  version: 17.1.2
+  resolution: "@commitlint/cli@npm:17.1.2"
   dependencies:
     "@commitlint/format": "npm:^17.0.0"
     "@commitlint/lint": "npm:^17.1.0"
-    "@commitlint/load": "npm:^17.1.1"
+    "@commitlint/load": "npm:^17.1.2"
     "@commitlint/read": "npm:^17.1.0"
     "@commitlint/types": "npm:^17.0.0"
     execa: "npm:^5.0.0"
@@ -375,7 +375,7 @@ __metadata:
     yargs: "npm:^17.0.0"
   bin:
     commitlint: cli.js
-  checksum: 656bf34b31fcaa303dcb302fbb45399b74f2bb3531a9c36f18d99f42c070c6862e752d2c4eb7b38f848a52b1ffce438f8d1f9c841f9569faf913d5c1f866e38f
+  checksum: b750c6f8f084baa5dad66028e13b1df10e7cee31e8e9ba9b9a9544160ff0fea2dea878a32c40de65bc2502b545b82dbd09da10f2da8128c5655a5ad3a9d14ea7
   languageName: node
   linkType: hard
 
@@ -398,12 +398,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@commitlint/cz-commitlint@npm:^17.1.1":
-  version: 17.1.1
-  resolution: "@commitlint/cz-commitlint@npm:17.1.1"
+"@commitlint/cz-commitlint@npm:^17.1.2":
+  version: 17.1.2
+  resolution: "@commitlint/cz-commitlint@npm:17.1.2"
   dependencies:
     "@commitlint/ensure": "npm:^17.0.0"
-    "@commitlint/load": "npm:^17.1.1"
+    "@commitlint/load": "npm:^17.1.2"
     "@commitlint/types": "npm:^17.0.0"
     chalk: "npm:^4.1.0"
     lodash: "npm:^4.17.21"
@@ -411,7 +411,7 @@ __metadata:
   peerDependencies:
     commitizen: ^4.0.3
     inquirer: ^8.0.0
-  checksum: 050d36a057adf953d09f2aefb1e0da5dab365403673b4963ff5556cc2496c39c472192fb4ef4fb61c9c41100248e4677149abe11a019056fe305a93bf4588aef
+  checksum: d4fff295355056547c0012dcdb00bbc4df7b7d6e8676f10c3424b5a7f9598edb540bbcbb7c1b10cf8d6b261cfad5cfc056fb9fdd79aa8e1d7d31dccf300a4a02
   languageName: node
   linkType: hard
 
@@ -464,9 +464,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@commitlint/load@npm:>6.1.1, @commitlint/load@npm:^17.1.1":
-  version: 17.1.1
-  resolution: "@commitlint/load@npm:17.1.1"
+"@commitlint/load@npm:>6.1.1, @commitlint/load@npm:^17.1.2":
+  version: 17.1.2
+  resolution: "@commitlint/load@npm:17.1.2"
   dependencies:
     "@commitlint/config-validator": "npm:^17.1.0"
     "@commitlint/execute-rule": "npm:^17.0.0"
@@ -475,13 +475,12 @@ __metadata:
     "@types/node": "npm:^14.0.0"
     chalk: "npm:^4.1.0"
     cosmiconfig: "npm:^7.0.0"
-    cosmiconfig-typescript-loader: "npm:^3.0.0"
+    cosmiconfig-typescript-loader: "npm:^4.0.0"
     lodash: "npm:^4.17.19"
     resolve-from: "npm:^5.0.0"
+    ts-node: "npm:^10.8.1"
     typescript: "npm:^4.6.4"
-  peerDependencies:
-    ts-node: ">=10"
-  checksum: cb1fc0f78fc2023681509c6fa138693b6e26ad5bcda46c9fa7047b5c47a7d9356c54b733bbd64a8c8db71ef0c05590090f0b8ccf5a6e30fab49f47a0fd5c3125
+  checksum: 70fd97eee0f6531c3f66001f7d8f97c39224b2fe4041a172bff323f88735cdceb05c8f0f83e24020cc09561f27735e85a202fe25d2d07e855714c277677a5c4a
   languageName: node
   linkType: hard
 
@@ -640,13 +639,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@iconify/json@npm:^2.1.99":
-  version: 2.1.99
-  resolution: "@iconify/json@npm:2.1.99"
+"@iconify/json@npm:^2.1.100":
+  version: 2.1.100
+  resolution: "@iconify/json@npm:2.1.100"
   dependencies:
     "@iconify/types": "npm:*"
     pathe: "npm:^0.3.0"
-  checksum: 2dac989737776ebb13056f0599bb058325bb3ea7da52fd93767a19980f608f7278a53f74ce7d47ef79da41dbae136e7b08e00a9dd5ff89e5ebb98ec7b1d8027d
+  checksum: 7a620134a4116a842eb8a469b037e8c904b38f00e2746491e9cffb178103da3e12eeb98e487591c2ebbc6938874ed8e29fdcbff81d82084f86bef4c7fed5a0d7
   languageName: node
   linkType: hard
 
@@ -2436,15 +2435,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cosmiconfig-typescript-loader@npm:^3.0.0":
-  version: 3.1.2
-  resolution: "cosmiconfig-typescript-loader@npm:3.1.2"
+"cosmiconfig-typescript-loader@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "cosmiconfig-typescript-loader@npm:4.0.0"
   peerDependencies:
     "@types/node": "*"
     cosmiconfig: ">=7"
     ts-node: ">=10"
     typescript: ">=3"
-  checksum: 192761f5d899c6e14dfd1b64fdee653c18cab0309e228660ec216c42819e5153ae65dfd0798dc42683f07495b208eb513cb99a3dae0f8fa67463e6a765a09f82
+  checksum: 435a4bdfa3c8282edc5190eb96712d5b02f0e24c752f279026eff2903f960fa151e421a21c9272d34425c3dab4e5e2b76392ce4110160c28de1846870cd69453
   languageName: node
   linkType: hard
 
@@ -6587,10 +6586,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "stelo@workspace:."
   dependencies:
-    "@commitlint/cli": "npm:^17.1.1"
+    "@commitlint/cli": "npm:^17.1.2"
     "@commitlint/config-conventional": "npm:^17.1.0"
-    "@commitlint/cz-commitlint": "npm:^17.1.1"
-    "@iconify/json": "npm:^2.1.99"
+    "@commitlint/cz-commitlint": "npm:^17.1.2"
+    "@iconify/json": "npm:^2.1.100"
     "@rollup/pluginutils": "npm:^4.2.1"
     "@ryansonshine/commitizen": "npm:^4.2.8"
     "@types/markdown-it": "npm:^12.2.3"
@@ -6978,7 +6977,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ts-node@npm:^10.9.1":
+"ts-node@npm:^10.8.1, ts-node@npm:^10.9.1":
   version: 10.9.1
   resolution: "ts-node@npm:10.9.1"
   dependencies:
