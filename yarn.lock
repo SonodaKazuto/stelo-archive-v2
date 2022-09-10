@@ -646,13 +646,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@iconify/json@npm:^2.1.104":
-  version: 2.1.104
-  resolution: "@iconify/json@npm:2.1.104"
+"@iconify/json@npm:^2.1.105":
+  version: 2.1.105
+  resolution: "@iconify/json@npm:2.1.105"
   dependencies:
     "@iconify/types": "npm:*"
     pathe: "npm:^0.3.0"
-  checksum: a9f2303b73b3e85c5f4bc4b6d73296b97e09e69b646898cd049fb048d691e2ddb9fa79d60840aedc02570fb7bb20b4aab749268f4d85858a2c1776f9cecb329a
+  checksum: 7583b1d5f3ebed353decb957e6f15a0d76d26ee69959d2ba7561e1ee1742c0b1a25da16248f559916a85266ed285aceec6154344f9fa95bfbfb4dc37cd75a6ce
   languageName: node
   linkType: hard
 
@@ -6706,7 +6706,7 @@ __metadata:
     "@commitlint/cli": "npm:^17.1.2"
     "@commitlint/config-conventional": "npm:^17.1.0"
     "@commitlint/cz-commitlint": "npm:^17.1.2"
-    "@iconify/json": "npm:^2.1.104"
+    "@iconify/json": "npm:^2.1.105"
     "@rollup/pluginutils": "npm:^4.2.1"
     "@ryansonshine/commitizen": "npm:^4.2.8"
     "@types/markdown-it": "npm:^12.2.3"
@@ -6746,7 +6746,7 @@ __metadata:
     vite-plugin-theme: "npm:^0.8.6"
     vite-plugin-vue-inspector: "npm:^1.1.2"
     vue: "npm:^3.2.39"
-    vue-eslint-parser: "npm:^9.0.3"
+    vue-eslint-parser: "npm:^9.1.0"
     vue-tsc: "npm:^0.40.13"
   languageName: unknown
   linkType: soft
@@ -7525,9 +7525,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vue-eslint-parser@npm:^9.0.0, vue-eslint-parser@npm:^9.0.1, vue-eslint-parser@npm:^9.0.3":
-  version: 9.0.3
-  resolution: "vue-eslint-parser@npm:9.0.3"
+"vue-eslint-parser@npm:^9.0.0, vue-eslint-parser@npm:^9.0.1, vue-eslint-parser@npm:^9.1.0":
+  version: 9.1.0
+  resolution: "vue-eslint-parser@npm:9.1.0"
   dependencies:
     debug: "npm:^4.3.4"
     eslint-scope: "npm:^7.1.1"
@@ -7538,7 +7538,7 @@ __metadata:
     semver: "npm:^7.3.6"
   peerDependencies:
     eslint: ">=6.0.0"
-  checksum: 3a6679cf70ce1991cf4e58f830eaf1c2587380c00ce5ac5db60c5e2717019f56a986b0eb8b131a402f71119d07f637e32632db6498d1620f6accbc74290612f5
+  checksum: 6ae302c5a4e2aeab1da990fb733061688334a719133e5e1d2c1c5877a9bfec6055a5646b63ef77dbfcdc1288eca2024d03b574730318930d3e4b11cb6b7dd4de
   languageName: node
   linkType: hard
 
