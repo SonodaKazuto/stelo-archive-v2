@@ -646,13 +646,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@iconify/json@npm:^2.1.107":
-  version: 2.1.107
-  resolution: "@iconify/json@npm:2.1.107"
+"@iconify/json@npm:^2.1.108":
+  version: 2.1.108
+  resolution: "@iconify/json@npm:2.1.108"
   dependencies:
     "@iconify/types": "npm:*"
     pathe: "npm:^0.3.0"
-  checksum: b74c4764c6db351a5e35cbbc0950b1d2ccc1a1df860d79f0790895d0d8f143058af88dda5c4250e791db23a5dafc53e1226f8fcc0f4c4dffe76e237e59fd5310
+  checksum: b9e07f4870cacaf88cb45044fb1ce87ac6530496b0acaaa7d623f478b39689c66ea6b0c61bfa054ce35afbb3b73909dbab0868d745115fdda9c1b94edf86099a
   languageName: node
   linkType: hard
 
@@ -3307,9 +3307,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-vue@npm:^9.4.0":
-  version: 9.4.0
-  resolution: "eslint-plugin-vue@npm:9.4.0"
+"eslint-plugin-vue@npm:^9.5.0":
+  version: 9.5.0
+  resolution: "eslint-plugin-vue@npm:9.5.0"
   dependencies:
     eslint-utils: "npm:^3.0.0"
     natural-compare: "npm:^1.4.0"
@@ -3320,7 +3320,7 @@ __metadata:
     xml-name-validator: "npm:^4.0.0"
   peerDependencies:
     eslint: ^6.2.0 || ^7.0.0 || ^8.0.0
-  checksum: 9f14394ef52613e93af2a67f35c8d1462567be202639052f9ef36a4bfddaa3ab54990fcd78fd438069f4f2b723e83a813b1bc190a00f7bb68d23f45b9728bad4
+  checksum: 8593767f49c675235496590c9d4f48f15fd34a875706f104d85d6450d0e77f7d2ecad7a5b3f8cf947afbeef3d1e0faac2adfbd4402df05563c0a286a016ea6e2
   languageName: node
   linkType: hard
 
@@ -6713,7 +6713,7 @@ __metadata:
     "@commitlint/cli": "npm:^17.1.2"
     "@commitlint/config-conventional": "npm:^17.1.0"
     "@commitlint/cz-commitlint": "npm:^17.1.2"
-    "@iconify/json": "npm:^2.1.107"
+    "@iconify/json": "npm:^2.1.108"
     "@rollup/pluginutils": "npm:^4.2.1"
     "@ryansonshine/commitizen": "npm:^4.2.8"
     "@types/markdown-it": "npm:^12.2.3"
@@ -6733,7 +6733,7 @@ __metadata:
     eslint-plugin-import: "npm:^2.26.0"
     eslint-plugin-prettier-vue: "npm:^4.2.0"
     eslint-plugin-simple-import-sort: "npm:^8.0.0"
-    eslint-plugin-vue: "npm:^9.4.0"
+    eslint-plugin-vue: "npm:^9.5.0"
     happy-dom: "npm:^6.0.4"
     husky: "npm:^8.0.1"
     inquirer: "npm:8.2.4"
@@ -6747,7 +6747,7 @@ __metadata:
     standard-version: "npm:^9.5.0"
     ts-node: "npm:^10.9.1"
     typescript: "npm:^4.8.3"
-    vite: "npm:^3.1.0"
+    vite: "npm:^3.1.1"
     vite-plugin-eslint: "npm:^1.8.1"
     vite-plugin-md: "npm:^0.20.4"
     vite-plugin-theme: "npm:^0.8.6"
@@ -7461,9 +7461,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:^2.9.12 || ^3.0.0-0, vite@npm:^3.1.0":
-  version: 3.1.0
-  resolution: "vite@npm:3.1.0"
+"vite@npm:^2.9.12 || ^3.0.0-0, vite@npm:^3.1.1":
+  version: 3.1.1
+  resolution: "vite@npm:3.1.1"
   dependencies:
     esbuild: "npm:^0.15.6"
     fsevents: "npm:~2.3.2"
@@ -7489,7 +7489,7 @@ __metadata:
       optional: true
   bin:
     vite: bin/vite.js
-  checksum: 104c3eeb8cbefc6a69e00f32673567f4300201739e282ac8ffaf46f8bee92d85e67ee565227049324c8b2b0b3572d9452705b03758256c300a9a913422c59e83
+  checksum: fa2bc33e931d82dab91cf877a84d8286ad045b8cf414e15c4c779e9b22826e010202ebf39bb57f5db1d79ff72f2d88d906f05a3edec17c3526507b29f9aa957d
   languageName: node
   linkType: hard
 
