@@ -3307,9 +3307,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-vue@npm:^9.5.0":
-  version: 9.5.0
-  resolution: "eslint-plugin-vue@npm:9.5.0"
+"eslint-plugin-vue@npm:^9.5.1":
+  version: 9.5.1
+  resolution: "eslint-plugin-vue@npm:9.5.1"
   dependencies:
     eslint-utils: "npm:^3.0.0"
     natural-compare: "npm:^1.4.0"
@@ -3320,7 +3320,7 @@ __metadata:
     xml-name-validator: "npm:^4.0.0"
   peerDependencies:
     eslint: ^6.2.0 || ^7.0.0 || ^8.0.0
-  checksum: 8593767f49c675235496590c9d4f48f15fd34a875706f104d85d6450d0e77f7d2ecad7a5b3f8cf947afbeef3d1e0faac2adfbd4402df05563c0a286a016ea6e2
+  checksum: 501b633fe2a9b602ec3381b28e5b086e8b9d5ae65bfe6c869d9dfeccb40321ac9b550c7b5f89e7445afd13826860ed65789dac8c894960fe940d9ac620f83252
   languageName: node
   linkType: hard
 
@@ -6733,7 +6733,7 @@ __metadata:
     eslint-plugin-import: "npm:^2.26.0"
     eslint-plugin-prettier-vue: "npm:^4.2.0"
     eslint-plugin-simple-import-sort: "npm:^8.0.0"
-    eslint-plugin-vue: "npm:^9.5.0"
+    eslint-plugin-vue: "npm:^9.5.1"
     happy-dom: "npm:^6.0.4"
     husky: "npm:^8.0.1"
     inquirer: "npm:8.2.4"
@@ -6747,7 +6747,7 @@ __metadata:
     standard-version: "npm:^9.5.0"
     ts-node: "npm:^10.9.1"
     typescript: "npm:^4.8.3"
-    vite: "npm:^3.1.1"
+    vite: "npm:^3.1.2"
     vite-plugin-eslint: "npm:^1.8.1"
     vite-plugin-md: "npm:^0.20.4"
     vite-plugin-theme: "npm:^0.8.6"
@@ -7461,9 +7461,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:^2.9.12 || ^3.0.0-0, vite@npm:^3.1.1":
-  version: 3.1.1
-  resolution: "vite@npm:3.1.1"
+"vite@npm:^2.9.12 || ^3.0.0-0, vite@npm:^3.1.2":
+  version: 3.1.2
+  resolution: "vite@npm:3.1.2"
   dependencies:
     esbuild: "npm:^0.15.6"
     fsevents: "npm:~2.3.2"
@@ -7489,7 +7489,7 @@ __metadata:
       optional: true
   bin:
     vite: bin/vite.js
-  checksum: fa2bc33e931d82dab91cf877a84d8286ad045b8cf414e15c4c779e9b22826e010202ebf39bb57f5db1d79ff72f2d88d906f05a3edec17c3526507b29f9aa957d
+  checksum: b1654d8fd85ff025ece58eaed772ba2c79dd74c685684c5452ab649c008adfce3b9e38ed947b81375f13dbd4cf2c629aa9d8ad6e0bf07bed5c034674261c02ac
   languageName: node
   linkType: hard
 
