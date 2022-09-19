@@ -6751,7 +6751,7 @@ __metadata:
     vite-plugin-eslint: "npm:^1.8.1"
     vite-plugin-md: "npm:^0.20.4"
     vite-plugin-theme: "npm:^0.8.6"
-    vite-plugin-vue-inspector: "npm:^1.1.2"
+    vite-plugin-vue-inspector: "npm:^1.1.3"
     vue: "npm:^3.2.39"
     vue-eslint-parser: "npm:^9.1.0"
     vue-tsc: "npm:^0.40.13"
@@ -7441,9 +7441,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite-plugin-vue-inspector@npm:^1.1.2":
-  version: 1.1.2
-  resolution: "vite-plugin-vue-inspector@npm:1.1.2"
+"vite-plugin-vue-inspector@npm:^1.1.3":
+  version: 1.1.3
+  resolution: "vite-plugin-vue-inspector@npm:1.1.3"
   dependencies:
     "@babel/core": "npm:^7.17.8"
     "@babel/plugin-syntax-import-meta": "npm:^7.10.4"
@@ -7457,7 +7457,7 @@ __metadata:
     shell-quote: "npm:^1.7.3"
   peerDependencies:
     vite: ^2.0.0 || ^3.0.0-0
-  checksum: 226a7b8df09f7115490859d1d295088b012588b60aaf2b85fd835aa9e41704e70cbdea8256ed77d9fc8f80b56a0751628b6e7d6b47d5e44bf73dfe5d5a92021a
+  checksum: 73d8d08dae494785841e91d598aa97599d3c00e2ba1ba34749b86e6094d2630d9c30255d0a409e5e72fb9a0ef69450e74f5f6c6495023e2e08a817b24b23b360
   languageName: node
   linkType: hard
 
