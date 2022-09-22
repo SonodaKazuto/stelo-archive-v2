@@ -646,13 +646,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@iconify/json@npm:^2.1.110":
-  version: 2.1.110
-  resolution: "@iconify/json@npm:2.1.110"
+"@iconify/json@npm:^2.1.111":
+  version: 2.1.111
+  resolution: "@iconify/json@npm:2.1.111"
   dependencies:
     "@iconify/types": "npm:*"
     pathe: "npm:^0.3.0"
-  checksum: 96ca6a43819e0c9319b73ed2177f50362dc5ea9bac4fefc9a3db6bea15d529978663a810985f22616ef613236298633fa54848028a616e9376618325d0bdfa66
+  checksum: 1766500d4b8a0ac03e97f2d874b74ce73f2a8f304a463f3e400cce3b9ff4d95dee273fdb9f43d196100883a0d50105632299dd3e619740fcd72bb9111735a26f
   languageName: node
   linkType: hard
 
@@ -1427,9 +1427,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vue/eslint-config-typescript@npm:^11.0.1":
-  version: 11.0.1
-  resolution: "@vue/eslint-config-typescript@npm:11.0.1"
+"@vue/eslint-config-typescript@npm:^11.0.2":
+  version: 11.0.2
+  resolution: "@vue/eslint-config-typescript@npm:11.0.2"
   dependencies:
     "@typescript-eslint/eslint-plugin": "npm:^5.0.0"
     "@typescript-eslint/parser": "npm:^5.0.0"
@@ -1441,7 +1441,7 @@ __metadata:
   peerDependenciesMeta:
     typescript:
       optional: true
-  checksum: ae818954e8858de3caa456b8a824a5a870e9e76f64491b64a855be00e327eb6e6013b770d8924117a9fa8c9b295a557e43eb09b555f54047b933e45f791b60aa
+  checksum: ac692da0906930b4be51a2c3bce4fdba080317332ff297727a458e97b45623903584abcb8ac17c5893ad1699a608fb3220713eb82b44c0eb76b3eca284140666
   languageName: node
   linkType: hard
 
@@ -6705,7 +6705,7 @@ __metadata:
     "@commitlint/cli": "npm:^17.1.2"
     "@commitlint/config-conventional": "npm:^17.1.0"
     "@commitlint/cz-commitlint": "npm:^17.1.2"
-    "@iconify/json": "npm:^2.1.110"
+    "@iconify/json": "npm:^2.1.111"
     "@rollup/pluginutils": "npm:^4.2.1"
     "@ryansonshine/commitizen": "npm:^4.2.8"
     "@types/markdown-it": "npm:^12.2.3"
@@ -6718,7 +6718,7 @@ __metadata:
     "@unocss/vite": "npm:^0.45.22"
     "@vitejs/plugin-vue": "npm:^3.1.0"
     "@vue/eslint-config-prettier": "npm:^7.0.0"
-    "@vue/eslint-config-typescript": "npm:^11.0.1"
+    "@vue/eslint-config-typescript": "npm:^11.0.2"
     eslint: "npm:^8.23.1"
     eslint-config-prettier: "npm:^8.5.0"
     eslint-plugin-eslint-comments: "npm:^3.2.0"
