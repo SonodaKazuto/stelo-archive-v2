@@ -646,13 +646,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@iconify/json@npm:^2.1.111":
-  version: 2.1.111
-  resolution: "@iconify/json@npm:2.1.111"
+"@iconify/json@npm:^2.1.112":
+  version: 2.1.112
+  resolution: "@iconify/json@npm:2.1.112"
   dependencies:
     "@iconify/types": "npm:*"
     pathe: "npm:^0.3.0"
-  checksum: 1766500d4b8a0ac03e97f2d874b74ce73f2a8f304a463f3e400cce3b9ff4d95dee273fdb9f43d196100883a0d50105632299dd3e619740fcd72bb9111735a26f
+  checksum: a69169d9852cd21ba42467430ec15bab48dc8103b3ddc788857c8d0c1d35170269f7ca28eea8402e0f12a6e943a28e3e0832eb6f07b9829c78d2be63f22f78de
   languageName: node
   linkType: hard
 
@@ -992,10 +992,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:*, @types/node@npm:^18.7.19":
-  version: 18.7.19
-  resolution: "@types/node@npm:18.7.19"
-  checksum: 2efdccb3d7b1f26476b1ba80d220a995194c7f9a887ff6b3ff993b25031348de3121d79864ecb8badf6331b9b02720d96ffa9232a4c286c53a7ec400964b12b0
+"@types/node@npm:*, @types/node@npm:^18.7.20":
+  version: 18.7.20
+  resolution: "@types/node@npm:18.7.20"
+  checksum: 7ff31e2c95839362ffd16f38a5ec952337d9439a414cddb9d060169c8fae89d9a236d655f9ac57a098a99bbc74383196e9727f3b3b31153228cfa3e6f705927f
   languageName: node
   linkType: hard
 
@@ -6705,11 +6705,11 @@ __metadata:
     "@commitlint/cli": "npm:^17.1.2"
     "@commitlint/config-conventional": "npm:^17.1.0"
     "@commitlint/cz-commitlint": "npm:^17.1.2"
-    "@iconify/json": "npm:^2.1.111"
+    "@iconify/json": "npm:^2.1.112"
     "@rollup/pluginutils": "npm:^4.2.1"
     "@ryansonshine/commitizen": "npm:^4.2.8"
     "@types/markdown-it": "npm:^12.2.3"
-    "@types/node": "npm:^18.7.19"
+    "@types/node": "npm:^18.7.20"
     "@typescript-eslint/eslint-plugin": "npm:^5.38.0"
     "@typescript-eslint/parser": "npm:^5.38.0"
     "@unocss/preset-attributify": "npm:^0.45.22"
