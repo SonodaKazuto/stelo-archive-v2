@@ -992,10 +992,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:*, @types/node@npm:^18.7.20":
-  version: 18.7.20
-  resolution: "@types/node@npm:18.7.20"
-  checksum: 7ff31e2c95839362ffd16f38a5ec952337d9439a414cddb9d060169c8fae89d9a236d655f9ac57a098a99bbc74383196e9727f3b3b31153228cfa3e6f705927f
+"@types/node@npm:*, @types/node@npm:^18.7.21":
+  version: 18.7.21
+  resolution: "@types/node@npm:18.7.21"
+  checksum: 3de253a220d6ddbc72811a6806ff43f2c5f038cd2e1ac573bc19fa78a5207a9db7a7216f5a94c329b8f9e738671633896e945c54e7c8c558d68a24e23e751ba2
   languageName: node
   linkType: hard
 
@@ -6709,7 +6709,7 @@ __metadata:
     "@rollup/pluginutils": "npm:^4.2.1"
     "@ryansonshine/commitizen": "npm:^4.2.8"
     "@types/markdown-it": "npm:^12.2.3"
-    "@types/node": "npm:^18.7.20"
+    "@types/node": "npm:^18.7.21"
     "@typescript-eslint/eslint-plugin": "npm:^5.38.0"
     "@typescript-eslint/parser": "npm:^5.38.0"
     "@unocss/preset-attributify": "npm:^0.45.22"
