@@ -646,13 +646,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@iconify/json@npm:^2.1.115":
-  version: 2.1.115
-  resolution: "@iconify/json@npm:2.1.115"
+"@iconify/json@npm:^2.1.116":
+  version: 2.1.116
+  resolution: "@iconify/json@npm:2.1.116"
   dependencies:
     "@iconify/types": "npm:*"
     pathe: "npm:^0.3.0"
-  checksum: f32a540b6464edaba25d9917a028e696ad089c17176081e676a9a59fbc6cea0cbdea3c8543a5c087c192a6219131dd2c36deff6801feec71bc9d53503317b138
+  checksum: 486f796642ef93b13cee18bfdeba742cb732b6821236fb58bd08297778204274076be8916938101bd8cb5c9de3d33feeb1a632806a19e8320cbcc8535b3d00d3
   languageName: node
   linkType: hard
 
@@ -5953,7 +5953,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"pathe@npm:^0.3.0":
+"pathe@npm:^0.3.0, pathe@npm:^0.3.7":
   version: 0.3.8
   resolution: "pathe@npm:0.3.8"
   checksum: d0d37034db7f55bb0729fb484d71816a98061e1caab02e87f2e06582305d4233fb82d2ec9d96c235868b9a8e6abaf2eaf9b63ad81d0845fb7a4124d190f663fe
@@ -6707,7 +6707,7 @@ __metadata:
     "@commitlint/cli": "npm:^17.1.2"
     "@commitlint/config-conventional": "npm:^17.1.0"
     "@commitlint/cz-commitlint": "npm:^17.1.2"
-    "@iconify/json": "npm:^2.1.115"
+    "@iconify/json": "npm:^2.1.116"
     "@rollup/pluginutils": "npm:^4.2.1"
     "@ryansonshine/commitizen": "npm:^4.2.8"
     "@types/markdown-it": "npm:^12.2.3"
@@ -7254,11 +7254,11 @@ __metadata:
 
 "typescript@patch:typescript@npm%3A^4.6.4#optional!builtin<compat/typescript>, typescript@patch:typescript@npm%3A^4.8.4#optional!builtin<compat/typescript>":
   version: 4.8.4
-  resolution: "typescript@patch:typescript@npm%3A4.8.4#optional!builtin<compat/typescript>::version=4.8.4&hash=a1c5e5"
+  resolution: "typescript@patch:typescript@npm%3A4.8.4#optional!builtin<compat/typescript>::version=4.8.4&hash=701156"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 696783974850fa4a345b270a7629f37bbb5277504e7262a105e44d3e3776a4337f13b5f0a484ebb0b377449391a7fd270746c8c9f7492bfa389613477fb5ea6a
+  checksum: 72574875bac1c13aec22010780d4841a10a88342d73744dbbad538bb0ed601f2024187f197239f2dcbf2442f83ecc4de04a80941d49730c403969fbba035ed81
   languageName: node
   linkType: hard
 
