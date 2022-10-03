@@ -992,7 +992,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:*, @types/node@npm:^18.7.23":
+"@types/node@npm:*":
   version: 18.7.23
   resolution: "@types/node@npm:18.7.23"
   checksum: 83f50561f3858e514d864cea3fbfc3142ec58a6acaf9c405609776b97b67a4692309feb1b9f928cca8ebdc964554a2e02480feb98f1774881ce440a9df722924
@@ -1010,6 +1010,13 @@ __metadata:
   version: 14.18.26
   resolution: "@types/node@npm:14.18.26"
   checksum: 7ed44aa4a0a0f6574b5c260b00657c3480ee079953faf76659b8300441a68b1d8b503b6212521491a28121463be772d65c713e1de74fbef6fbf8e560425d587b
+  languageName: node
+  linkType: hard
+
+"@types/node@npm:^18.8.0":
+  version: 18.8.0
+  resolution: "@types/node@npm:18.8.0"
+  checksum: c1975b388b51a1687918210cc54e70663c44fd22af25fb943653520444a47dc4a8ede70392a58a4f4b2c3062903b408b2105266af8c2c44548184ec7cdbc0439
   languageName: node
   linkType: hard
 
@@ -1279,13 +1286,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vitejs/plugin-vue@npm:^3.1.0":
-  version: 3.1.0
-  resolution: "@vitejs/plugin-vue@npm:3.1.0"
+"@vitejs/plugin-vue@npm:^3.1.2":
+  version: 3.1.2
+  resolution: "@vitejs/plugin-vue@npm:3.1.2"
   peerDependencies:
     vite: ^3.0.0
     vue: ^3.2.25
-  checksum: f4a638074c5d318f5fb9a8814af18e0aafd789c8db52b87503a52033410dd8d720ef14f9a80621dadbe9f737f597f30ef45bbfdb91aba7aee40fadbdfa657bc1
+  checksum: d6c07ea650277c7433eaeb772be88d2a3153d97eb631342d9f530cea48e5a0601aca7ed57c6cd108cafdfca029d85065b8e7490f715237200963931cd00f7a7d
   languageName: node
   linkType: hard
 
@@ -6711,14 +6718,14 @@ __metadata:
     "@rollup/pluginutils": "npm:^4.2.1"
     "@ryansonshine/commitizen": "npm:^4.2.8"
     "@types/markdown-it": "npm:^12.2.3"
-    "@types/node": "npm:^18.7.23"
+    "@types/node": "npm:^18.8.0"
     "@typescript-eslint/eslint-plugin": "npm:^5.38.1"
     "@typescript-eslint/parser": "npm:^5.38.1"
     "@unocss/preset-attributify": "npm:^0.45.26"
     "@unocss/preset-icons": "npm:^0.45.26"
     "@unocss/preset-uno": "npm:^0.45.26"
     "@unocss/vite": "npm:^0.45.26"
-    "@vitejs/plugin-vue": "npm:^3.1.0"
+    "@vitejs/plugin-vue": "npm:^3.1.2"
     "@vue/eslint-config-prettier": "npm:^7.0.0"
     "@vue/eslint-config-typescript": "npm:^11.0.2"
     eslint: "npm:^8.24.0"
