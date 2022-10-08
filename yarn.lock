@@ -5972,7 +5972,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"pathe@npm:^0.3.0":
+"pathe@npm:^0.3.0, pathe@npm:^0.3.7":
   version: 0.3.8
   resolution: "pathe@npm:0.3.8"
   checksum: d0d37034db7f55bb0729fb484d71816a98061e1caab02e87f2e06582305d4233fb82d2ec9d96c235868b9a8e6abaf2eaf9b63ad81d0845fb7a4124d190f663fe
