@@ -6,4 +6,6 @@
 import ReadMe from '../../README.md';
 </script>
 
-<style scoped></style>
+<style scoped>
+@import '../github-markdown.css';
+</style>
