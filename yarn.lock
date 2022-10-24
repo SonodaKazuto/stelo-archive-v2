@@ -646,13 +646,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@iconify/json@npm:^2.1.126":
-  version: 2.1.126
-  resolution: "@iconify/json@npm:2.1.126"
+"@iconify/json@npm:^2.1.127":
+  version: 2.1.127
+  resolution: "@iconify/json@npm:2.1.127"
   dependencies:
     "@iconify/types": "npm:*"
     pathe: "npm:^0.3.0"
-  checksum: d64d82707dfcdf778b6f456b7147d4493da0243f101f533960980f303bcfd42ef415c2dad55df1eb5d716ecc6b15a96d2ec414e16407d47d2ba85f735a9b6d77
+  checksum: a423249cd95932bf55d2ce2404c96905c220c373008ba12a5b3eb9a7e676cabcb665710ebb913a134f719304f7cfba371c1f646728dda5e5a8e9bc3f6f8694b7
   languageName: node
   linkType: hard
 
@@ -1008,10 +1008,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:*, @types/node@npm:^18.11.3":
-  version: 18.11.3
-  resolution: "@types/node@npm:18.11.3"
-  checksum: a5764e83c872478f994bbc93807640db0d1ed6da7e9d55d18a9610691a89f169722414d480c44388550945b3c16a838f5e3e94de28207cc0616f12dba70edb96
+"@types/node@npm:*, @types/node@npm:^18.11.4":
+  version: 18.11.4
+  resolution: "@types/node@npm:18.11.4"
+  checksum: 1fad36b7a820e2d7fab927ae9892c480d568e2ba1ed9295c6b05f8644a330442b2184865247ad415b774ff8439a5238c4d55d5cc6b786a5b9a97087917a2d84e
   languageName: node
   linkType: hard
 
@@ -4467,9 +4467,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"inquirer@npm:8.2.4, inquirer@npm:^8.2.2":
-  version: 8.2.4
-  resolution: "inquirer@npm:8.2.4"
+"inquirer@npm:8.2.5, inquirer@npm:^8.2.2":
+  version: 8.2.5
+  resolution: "inquirer@npm:8.2.5"
   dependencies:
     ansi-escapes: "npm:^4.2.1"
     chalk: "npm:^4.1.1"
@@ -4486,7 +4486,7 @@ __metadata:
     strip-ansi: "npm:^6.0.0"
     through: "npm:^2.3.6"
     wrap-ansi: "npm:^7.0.0"
-  checksum: cfb2c043d74f3517ee20faadc0295eea04fe39808e084c1772a31918fcda0a5c18c341e8f313273bc00dec5e57a7a1d7826234507d1706d335dc174bf001b615
+  checksum: 50459c04bf4d6a20e1297eb82bbdf838b0fea6140759103ded99b5af50784fbebecd50f37970cde186829cec4d8f3ad58d975701a1fe03b735a31d4a5a351e63
   languageName: node
   linkType: hard
 
@@ -6749,11 +6749,11 @@ __metadata:
     "@commitlint/cli": "npm:^17.1.2"
     "@commitlint/config-conventional": "npm:^17.1.0"
     "@commitlint/cz-commitlint": "npm:^17.1.2"
-    "@iconify/json": "npm:^2.1.126"
+    "@iconify/json": "npm:^2.1.127"
     "@rollup/pluginutils": "npm:^5.0.2"
     "@ryansonshine/commitizen": "npm:^4.2.8"
     "@types/markdown-it": "npm:^12.2.3"
-    "@types/node": "npm:^18.11.3"
+    "@types/node": "npm:^18.11.4"
     "@typescript-eslint/eslint-plugin": "npm:^5.40.1"
     "@typescript-eslint/parser": "npm:^5.40.1"
     "@unocss/preset-attributify": "npm:^0.45.30"
@@ -6772,7 +6772,7 @@ __metadata:
     eslint-plugin-vue: "npm:^9.6.0"
     happy-dom: "npm:^7.6.0"
     husky: "npm:^8.0.1"
-    inquirer: "npm:8.2.4"
+    inquirer: "npm:8.2.5"
     lint-staged: "npm:^13.0.3"
     markdown-it: "npm:^13.0.1"
     markdown-it-anchor: "npm:^8.6.5"
