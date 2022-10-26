@@ -6096,12 +6096,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:2.7.1, prettier@npm:^2.7.1":
+"prettier@npm:^2.7.1":
   version: 2.7.1
   resolution: "prettier@npm:2.7.1"
   bin:
     prettier: bin-prettier.js
   checksum: d2cd7adc83b4f3eb86ab665fa76c58fb3c60c879b37e6d858f71a9d97d2091d4c8a7fe92ad6a1dfa211832025e3660635df9c5e27b3ef79c99d431923bdf933b
+  languageName: node
+  linkType: hard
+
+"prettier@npm:^3.0.0-alpha.4":
+  version: 3.0.0-alpha.4
+  resolution: "prettier@npm:3.0.0-alpha.4"
+  bin:
+    prettier: bin/prettier.cjs
+  checksum: edaa36d339f93569d628e8b790a79a2eadb9458f52e77592f27641206509de21b61d0e54dab9499c0829271c68bb38ea327f5ec31ad5d03a2d8d1f6188801143
   languageName: node
   linkType: hard
 
@@ -6777,7 +6786,7 @@ __metadata:
     markdown-it: "npm:^13.0.1"
     markdown-it-anchor: "npm:^8.6.5"
     markdown-it-prism: "npm:^2.3.0"
-    prettier: "npm:2.7.1"
+    prettier: "npm:^3.0.0-alpha.4"
     prettier-plugin-sh: "npm:^0.12.8"
     prismjs: "npm:^1.29.0"
     standard-version: "npm:^9.5.0"
