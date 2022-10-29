@@ -646,13 +646,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@iconify/json@npm:^2.1.129":
-  version: 2.1.129
-  resolution: "@iconify/json@npm:2.1.129"
+"@iconify/json@npm:^2.1.130":
+  version: 2.1.130
+  resolution: "@iconify/json@npm:2.1.130"
   dependencies:
     "@iconify/types": "npm:*"
     pathe: "npm:^0.3.0"
-  checksum: 2d07d8cd1e0021ac5a1dd02e3d0376278c8d3f8601cda0f17bd693937bab05ce6d45b17e8e1ae803d6cce94b9d5332d0467787c447c50e5d3c05ecf6a203c34a
+  checksum: c40eca8ca821d1e761f6104a07913f5a579b1b6f37281e71e6849eabab381e67e1c1b30d811d21c16bae9f4117faec9e56cd3d0ca9698ffeb9bab33cf44bfc62
   languageName: node
   linkType: hard
 
@@ -3816,7 +3816,7 @@ __metadata:
 
 "fsevents@patch:fsevents@npm%3A~2.3.2#optional!builtin<compat/fsevents>":
   version: 2.3.2
-  resolution: "fsevents@patch:fsevents@npm%3A2.3.2#optional!builtin<compat/fsevents>::version=2.3.2&hash=18f3a7"
+  resolution: "fsevents@patch:fsevents@npm%3A2.3.2#optional!builtin<compat/fsevents>::version=2.3.2&hash=df0bf1"
   dependencies:
     node-gyp: "npm:latest"
   conditions: os=darwin
@@ -6351,7 +6351,7 @@ __metadata:
 
 "resolve@patch:resolve@npm%3A^1.10.0#optional!builtin<compat/resolve>, resolve@patch:resolve@npm%3A^1.20.0#optional!builtin<compat/resolve>, resolve@patch:resolve@npm%3A^1.22.0#optional!builtin<compat/resolve>, resolve@patch:resolve@npm%3A^1.22.1#optional!builtin<compat/resolve>":
   version: 1.22.1
-  resolution: "resolve@patch:resolve@npm%3A1.22.1#optional!builtin<compat/resolve>::version=1.22.1&hash=07638b"
+  resolution: "resolve@patch:resolve@npm%3A1.22.1#optional!builtin<compat/resolve>::version=1.22.1&hash=c3c19d"
   dependencies:
     is-core-module: "npm:^2.9.0"
     path-parse: "npm:^1.0.7"
@@ -6758,7 +6758,7 @@ __metadata:
     "@commitlint/cli": "npm:^17.1.2"
     "@commitlint/config-conventional": "npm:^17.1.0"
     "@commitlint/cz-commitlint": "npm:^17.1.2"
-    "@iconify/json": "npm:^2.1.129"
+    "@iconify/json": "npm:^2.1.130"
     "@rollup/pluginutils": "npm:^5.0.2"
     "@ryansonshine/commitizen": "npm:^4.2.8"
     "@types/markdown-it": "npm:^12.2.3"
@@ -6792,7 +6792,7 @@ __metadata:
     standard-version: "npm:^9.5.0"
     ts-node: "npm:^10.9.1"
     typescript: "npm:^4.8.4"
-    vite: "npm:^3.2.0"
+    vite: "npm:^3.2.1"
     vite-plugin-eslint: "npm:^1.8.1"
     vite-plugin-md: "npm:^0.20.4"
     vite-plugin-theme: "npm:^0.8.6"
@@ -7312,7 +7312,7 @@ __metadata:
 
 "typescript@patch:typescript@npm%3A^4.6.4#optional!builtin<compat/typescript>, typescript@patch:typescript@npm%3A^4.8.4#optional!builtin<compat/typescript>":
   version: 4.8.4
-  resolution: "typescript@patch:typescript@npm%3A4.8.4#optional!builtin<compat/typescript>::version=4.8.4&hash=701156"
+  resolution: "typescript@patch:typescript@npm%3A4.8.4#optional!builtin<compat/typescript>::version=4.8.4&hash=0102e9"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
@@ -7515,9 +7515,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:^2.9.12 || ^3.0.0-0, vite@npm:^3.2.0":
-  version: 3.2.0
-  resolution: "vite@npm:3.2.0"
+"vite@npm:^2.9.12 || ^3.0.0-0, vite@npm:^3.2.1":
+  version: 3.2.1
+  resolution: "vite@npm:3.2.1"
   dependencies:
     esbuild: "npm:^0.15.9"
     fsevents: "npm:~2.3.2"
@@ -7546,7 +7546,7 @@ __metadata:
       optional: true
   bin:
     vite: bin/vite.js
-  checksum: ea96242b42854ca07b39de519a77bf2ae9247c8cf85d071efe16baaf79971093f2b17904429d4fcd3e4b324768d6cbf4a0a30f91e482b1f2a1264e7759a24319
+  checksum: d090207f5881bd30493f6195bcfef48cadc43838f35a758a601f9f94d89250ee7c9634de5ecf5b5f1660e6e6cde12cfb1f6b147bc3eff4fe806eaadd54aa4dd9
   languageName: node
   linkType: hard
 
