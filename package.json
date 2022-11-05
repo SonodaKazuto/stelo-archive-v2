@@ -37,7 +37,7 @@
 		"@commitlint/cli": "^17.2.0",
 		"@commitlint/config-conventional": "^17.2.0",
 		"@commitlint/cz-commitlint": "^17.2.0",
-		"@iconify/json": "^2.1.132",
+		"@iconify/json": "^2.1.133",
 		"@rollup/pluginutils": "^5.0.2",
 		"@ryansonshine/commitizen": "^4.2.8",
 		"@types/markdown-it": "^12.2.3",
