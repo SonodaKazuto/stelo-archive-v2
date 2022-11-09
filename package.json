@@ -58,7 +58,7 @@
 		"eslint-plugin-prettier-vue": "^4.2.0",
 		"eslint-plugin-simple-import-sort": "^8.0.0",
 		"eslint-plugin-vue": "^9.7.0",
-		"happy-dom": "^7.6.6",
+		"happy-dom": "^7.6.7",
 		"husky": "^8.0.2",
 		"inquirer": "8.2.5",
 		"lint-staged": "^13.0.3",
