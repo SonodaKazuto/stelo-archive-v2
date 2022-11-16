@@ -646,13 +646,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@iconify/json@npm:^2.1.137":
-  version: 2.1.137
-  resolution: "@iconify/json@npm:2.1.137"
+"@iconify/json@npm:^2.1.138":
+  version: 2.1.138
+  resolution: "@iconify/json@npm:2.1.138"
   dependencies:
     "@iconify/types": "npm:*"
     pathe: "npm:^0.3.0"
-  checksum: d3792a9a71046c99523f8417281616e8992255ad3274ecdd1b840d8f020b1c8e4008f52a27f2367188e245403827dcbb4da0bc3d8a5828935a7d70fb79ea9d6b
+  checksum: 7cc24d5cceab05dd65cb876eed957dbfdab3582df2e332d14a79c696c1831542672a55ba26edad6a3f21cc5e866a6faaf5e7da0b852b62d5f48b8b4423b93399
   languageName: node
   linkType: hard
 
@@ -6766,7 +6766,7 @@ __metadata:
     "@commitlint/cli": "npm:^17.2.0"
     "@commitlint/config-conventional": "npm:^17.2.0"
     "@commitlint/cz-commitlint": "npm:^17.2.0"
-    "@iconify/json": "npm:^2.1.137"
+    "@iconify/json": "npm:^2.1.138"
     "@rollup/pluginutils": "npm:^5.0.2"
     "@ryansonshine/commitizen": "npm:^4.2.8"
     "@types/markdown-it": "npm:^12.2.3"
@@ -6799,8 +6799,8 @@ __metadata:
     prismjs: "npm:^1.29.0"
     standard-version: "npm:^9.5.0"
     ts-node: "npm:^10.9.1"
-    typescript: "npm:^4.8.4"
-    vite: "npm:^3.2.3"
+    typescript: "npm:^4.9.3"
+    vite: "npm:^3.2.4"
     vite-plugin-eslint: "npm:^1.8.1"
     vite-plugin-md: "npm:^0.20.4"
     vite-plugin-theme: "npm:^0.8.6"
@@ -7308,23 +7308,23 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@npm:^4.6.4, typescript@npm:^4.8.4":
-  version: 4.8.4
-  resolution: "typescript@npm:4.8.4"
+"typescript@npm:^4.6.4, typescript@npm:^4.9.3":
+  version: 4.9.3
+  resolution: "typescript@npm:4.9.3"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 008c336ed785130b6e13254adbfc4084f5dbbe62851df9bac3eaf62fc29e0a396839c00ce47e0d92db44fa9a08b9f7ba4d31304f2b10cf7d42a0817728e822a1
+  checksum: b0aafee5d6427b67fc557c46a6e9c093586444db463fde7a19ffc4eecc31889246210ff679f8384769dc99fca975bba5ac17411816855bb2d8a549e4fe442cc7
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@npm%3A^4.6.4#optional!builtin<compat/typescript>, typescript@patch:typescript@npm%3A^4.8.4#optional!builtin<compat/typescript>":
-  version: 4.8.4
-  resolution: "typescript@patch:typescript@npm%3A4.8.4#optional!builtin<compat/typescript>::version=4.8.4&hash=0102e9"
+"typescript@patch:typescript@npm%3A^4.6.4#optional!builtin<compat/typescript>, typescript@patch:typescript@npm%3A^4.9.3#optional!builtin<compat/typescript>":
+  version: 4.9.3
+  resolution: "typescript@patch:typescript@npm%3A4.9.3#optional!builtin<compat/typescript>::version=4.9.3&hash=d73830"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 72574875bac1c13aec22010780d4841a10a88342d73744dbbad538bb0ed601f2024187f197239f2dcbf2442f83ecc4de04a80941d49730c403969fbba035ed81
+  checksum: 06fd518bc55d054127b39aa7ad11551fd132bb7a8395913ed84fd5caf715455393d622e884ccb4fcf962d4eb5182600009c096b82ec516e8fadd09bf2150bb93
   languageName: node
   linkType: hard
 
@@ -7523,9 +7523,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:^2.9.12 || ^3.0.0-0, vite@npm:^3.2.3":
-  version: 3.2.3
-  resolution: "vite@npm:3.2.3"
+"vite@npm:^2.9.12 || ^3.0.0-0, vite@npm:^3.2.4":
+  version: 3.2.4
+  resolution: "vite@npm:3.2.4"
   dependencies:
     esbuild: "npm:^0.15.9"
     fsevents: "npm:~2.3.2"
@@ -7557,7 +7557,7 @@ __metadata:
       optional: true
   bin:
     vite: bin/vite.js
-  checksum: ddd857ae9900e65cb7853466f22d008b9814e6ac57390b61a82dffcac2503bda954271357faeabfb7c258a1ac08345e050b2c6dc6197b11d21def3a95399f076
+  checksum: 7d3d67837a0400cb9c79c7ce0ffe26eb65d5668437b47e3a34c231c5ffb96e02d2d592867b0c1f863d9b8bf5ff6f3ea3b602e086ca6f48687ee00105f1b5516e
   languageName: node
   linkType: hard
 
