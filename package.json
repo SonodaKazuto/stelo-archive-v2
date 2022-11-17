@@ -10,7 +10,7 @@
 	},
 	"private": true,
 	"version": "0.0.0",
-	"packageManager": "yarn@4.0.0-rc.28",
+	"packageManager": "yarn@4.0.0-rc.29",
 	"scripts": {
 		"postinstall": "husky install",
 		"dev": "vite",
@@ -37,7 +37,7 @@
 		"@commitlint/cli": "^17.2.0",
 		"@commitlint/config-conventional": "^17.2.0",
 		"@commitlint/cz-commitlint": "^17.2.0",
-		"@iconify/json": "^2.1.138",
+		"@iconify/json": "^2.1.139",
 		"@rollup/pluginutils": "^5.0.2",
 		"@ryansonshine/commitizen": "^4.2.8",
 		"@types/markdown-it": "^12.2.3",
