@@ -44,10 +44,10 @@
 		"@types/node": "^18.11.9",
 		"@typescript-eslint/eslint-plugin": "^5.45.0",
 		"@typescript-eslint/parser": "^5.45.0",
-		"@unocss/preset-attributify": "^0.46.5",
-		"@unocss/preset-icons": "^0.46.5",
-		"@unocss/preset-uno": "^0.46.5",
-		"@unocss/vite": "^0.46.5",
+		"@unocss/preset-attributify": "^0.47.2",
+		"@unocss/preset-icons": "^0.47.2",
+		"@unocss/preset-uno": "^0.47.2",
+		"@unocss/vite": "^0.47.2",
 		"@vitejs/plugin-vue": "^3.2.0",
 		"@vue/eslint-config-prettier": "^7.0.0",
 		"@vue/eslint-config-typescript": "^11.0.2",
@@ -77,6 +77,6 @@
 		"vite-plugin-theme": "^0.8.6",
 		"vite-plugin-vue-inspector": "^1.1.4",
 		"vue-eslint-parser": "^9.1.0",
-		"vue-tsc": "^1.0.9"
+		"vue-tsc": "^1.0.10"
 	}
 }
