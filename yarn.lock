@@ -5187,13 +5187,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"markdown-it-anchor@npm:^8.6.5":
-  version: 8.6.5
-  resolution: "markdown-it-anchor@npm:8.6.5"
+"markdown-it-anchor@npm:^8.6.6":
+  version: 8.6.6
+  resolution: "markdown-it-anchor@npm:8.6.6"
   peerDependencies:
     "@types/markdown-it": "*"
     markdown-it: "*"
-  checksum: f8f7f3a85be4763a88dd1d8b31cc154f47b4eca7dc36098e9e22a7cfe59f56db14f7cc8a48406a1b68440ecca3b065e355f8d886a858238281a623aa48cee5d4
+  checksum: 1a2b4253d43e064d39d7cec4047226acd70d7f5fa2446531cfd60ee61ec0909ad30eaeb523e6f642e546049562ff80ccec27200a84b9aa6bc4fc0b83404a7cb2
   languageName: node
   linkType: hard
 
@@ -6755,7 +6755,7 @@ __metadata:
     inquirer: "npm:8.2.5"
     lint-staged: "npm:^13.1.0"
     markdown-it: "npm:^13.0.1"
-    markdown-it-anchor: "npm:^8.6.5"
+    markdown-it-anchor: "npm:^8.6.6"
     markdown-it-prism: "npm:^2.3.0"
     prettier: "npm:^3.0.0-alpha.4"
     prettier-plugin-sh: "npm:^0.12.8"
