@@ -792,13 +792,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@iconify/json@npm:^2.1.155":
-  version: 2.1.155
-  resolution: "@iconify/json@npm:2.1.155"
+"@iconify/json@npm:^2.1.156":
+  version: 2.1.156
+  resolution: "@iconify/json@npm:2.1.156"
   dependencies:
     "@iconify/types": "npm:*"
     pathe: "npm:^0.3.0"
-  checksum: 40533fc5c5f51b6e7e04aea857480aca72e14572dfac522b47978c9fc304b3871d2e49a10c94d0c6e794a09a91bf6064d8b9c319f917035309e406e150029a26
+  checksum: 67d6f871e94987c13e58aeae3bfcc5aab38486a3216d70dbd995cd19bae94a1489d3fccc3a75f24738639b1cae6cf9711ddf8dcb0d934889d7f83d32b3c64c55
   languageName: node
   linkType: hard
 
@@ -6785,7 +6785,7 @@ __metadata:
     "@commitlint/cli": "npm:^17.3.0"
     "@commitlint/config-conventional": "npm:^17.3.0"
     "@commitlint/cz-commitlint": "npm:^17.3.0"
-    "@iconify/json": "npm:^2.1.155"
+    "@iconify/json": "npm:^2.1.156"
     "@rollup/pluginutils": "npm:^5.0.2"
     "@ryansonshine/commitizen": "npm:^4.2.8"
     "@types/markdown-it": "npm:^12.2.3"
